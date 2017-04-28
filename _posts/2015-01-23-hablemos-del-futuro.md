@@ -4,13 +4,12 @@ title: Hablemos del futuro
 date: 2015-01-23T11:00:05+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=25
 permalink: /2015/01/hablemos-del-futuro/
 categories:
   - Ideas
 ---
 <p style="text-align: center;">
-  <a href="http://www.aquigorka.com/wp-content/uploads/2015/01/Welcome-to-the-future.jpg"><img class="aligncenter size-medium wp-image-29" src="http://www.aquigorka.com/wp-content/uploads/2015/01/Welcome-to-the-future-300x218.jpg" alt="Welcome to the future" width="300" height="218" srcset="http://www.aquigorka.com/wp-content/uploads/2015/01/Welcome-to-the-future-300x218.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/01/Welcome-to-the-future-1024x744.jpg 1024w, http://www.aquigorka.com/wp-content/uploads/2015/01/Welcome-to-the-future.jpg 1480w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <img class="aligncenter size-medium wp-image-29" src="/wp-content/uploads/2015/01/Welcome-to-the-future-300x218.jpg" alt="Welcome to the future" width="300" height="218" srcset="/wp-content/uploads/2015/01/Welcome-to-the-future-300x218.jpg 300w, /wp-content/uploads/2015/01/Welcome-to-the-future-1024x744.jpg 1024w, /wp-content/uploads/2015/01/Welcome-to-the-future.jpg 1480w" sizes="(max-width: 300px) 100vw, 300px" />
 </p>
 
 <p style="text-align: center;">

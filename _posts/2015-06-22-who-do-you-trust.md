@@ -4,13 +4,12 @@ title: Who do you trust?
 date: 2015-06-22T01:31:23+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=105
 permalink: /2015/06/who-do-you-trust/
 categories:
   - Ideas
 ---
 <p style="text-align: center;">
-  <a href="http://www.aquigorka.com/wp-content/uploads/2015/06/nous21.jpg"><img class="aligncenter size-medium wp-image-106" src="http://www.aquigorka.com/wp-content/uploads/2015/06/nous21-300x271.jpg" alt="nous" width="300" height="271" srcset="http://www.aquigorka.com/wp-content/uploads/2015/06/nous21-300x271.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/06/nous21.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <img class="aligncenter size-medium wp-image-106" src="/wp-content/uploads/2015/06/nous21-300x271.jpg" alt="nous" width="300" height="271" srcset="/wp-content/uploads/2015/06/nous21-300x271.jpg 300w, /wp-content/uploads/2015/06/nous21.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
 </p>
 
 > <p style="text-align: right;">

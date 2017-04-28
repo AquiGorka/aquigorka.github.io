@@ -4,13 +4,12 @@ title: Hackeando el mundo real
 date: 2015-02-24T02:15:06+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=51
 permalink: /2015/02/hackeando-el-mundo-real/
 categories:
   - Ideas
 ---
 <p style="text-align: center;">
-  <a href="http://www.aquigorka.com/wp-content/uploads/2015/02/Inception.jpg"><img class="aligncenter size-medium wp-image-52" src="http://www.aquigorka.com/wp-content/uploads/2015/02/Inception-300x126.jpg" alt="Inception" width="300" height="126" srcset="http://www.aquigorka.com/wp-content/uploads/2015/02/Inception-300x126.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/02/Inception-1024x429.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <img class="aligncenter size-medium wp-image-52" src="/wp-content/uploads/2015/02/Inception-300x126.jpg" alt="Inception" width="300" height="126" srcset="/wp-content/uploads/2015/02/Inception-300x126.jpg 300w, /wp-content/uploads/2015/02/Inception-1024x429.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 </p>
 
 <p style="text-align: center;">

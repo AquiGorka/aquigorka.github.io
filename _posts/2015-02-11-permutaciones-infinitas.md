@@ -4,13 +4,12 @@ title: Permutaciones Infinitas
 date: 2015-02-11T13:13:36+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=46
 permalink: /2015/02/permutaciones-infinitas/
 categories:
   - Ideas
 ---
 <p style="text-align: center;">
-  <a href="http://www.aquigorka.com/wp-content/uploads/2015/02/universe.jpg"><img class="aligncenter size-medium wp-image-47" src="http://www.aquigorka.com/wp-content/uploads/2015/02/universe-300x148.jpg" alt="Universe" width="300" height="148" srcset="http://www.aquigorka.com/wp-content/uploads/2015/02/universe-300x148.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/02/universe-1024x506.jpg 1024w, http://www.aquigorka.com/wp-content/uploads/2015/02/universe.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <img class="aligncenter size-medium wp-image-47" src="/wp-content/uploads/2015/02/universe-300x148.jpg" alt="Universe" width="300" height="148" srcset="/wp-content/uploads/2015/02/universe-300x148.jpg 300w, /wp-content/uploads/2015/02/universe-1024x506.jpg 1024w, /wp-content/uploads/2015/02/universe.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />
 </p>
 
 <p style="text-align: center;">

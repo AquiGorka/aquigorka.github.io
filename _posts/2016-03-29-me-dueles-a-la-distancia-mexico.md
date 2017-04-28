@@ -4,7 +4,6 @@ title: Me dueles a la distancia México
 date: 2016-03-29T14:25:05+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=169
 permalink: /2016/03/me-dueles-a-la-distancia-mexico/
 categories:
   - Ideas

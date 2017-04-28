@@ -4,12 +4,11 @@ title: Right there and then
 date: 2015-09-23T11:41:46+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=141
 permalink: /2015/09/right-there-and-then/
 categories:
   - Ideas
 ---
-[<img class="size-medium wp-image-142 aligncenter" src="http://www.aquigorka.com/wp-content/uploads/2015/09/hitting-the-target-300x300.jpg" alt="missile hit a human that carry a target" width="300" height="300" srcset="http://www.aquigorka.com/wp-content/uploads/2015/09/hitting-the-target-300x300.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/09/hitting-the-target-150x150.jpg 150w, http://www.aquigorka.com/wp-content/uploads/2015/09/hitting-the-target-1024x1024.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.aquigorka.com/wp-content/uploads/2015/09/hitting-the-target.jpg)
+<img class="size-medium wp-image-142 aligncenter" src="/wp-content/uploads/2015/09/hitting-the-target-300x300.jpg" alt="missile hit a human that carry a target" width="300" height="300" srcset="/wp-content/uploads/2015/09/hitting-the-target-300x300.jpg 300w, /wp-content/uploads/2015/09/hitting-the-target-150x150.jpg 150w, /wp-content/uploads/2015/09/hitting-the-target-1024x1024.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
 > <p style="text-align: right;">
 >   Si quiero sentir la pasión y satisfacción de seguir mi sueño, <b>tengo que seguirlo con mayor precisión,</b> no solo seguir el rubro de lo que quiero, sino también el tipo de cosa que quiero producir, el tipo de publico al que quiero apuntar, el tipo de valores que quiero sostener, el tipo de experiencia que quiero vivir lo mas específicamente posible.<br /> <a href="http://coachibarra.com/logros/lo-que-aprendi-de-mis-fracasos-como-desarrollador-independiente-2/" target="_blank">Christian Ibarra &#8211; Lo que aprendí de mis errores 2</a>
@@ -31,6 +30,6 @@ Uniendo las ideas que me generaron ambos textos me atrevo a pensar/escribir en v
 
 Me encantaría saber que piensan &#8211; ahí están los comentarios.
 
-Saludos,
-  
-Gorka
+<p style="text-align: left;">
+  Saludos,<br /> Gorka
+</p>

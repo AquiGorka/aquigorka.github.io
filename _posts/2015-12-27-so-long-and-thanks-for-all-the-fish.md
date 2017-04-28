@@ -4,12 +4,11 @@ title: So long and thanks for all the fish
 date: 2015-12-27T00:09:01+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=165
 permalink: /2015/12/so-long-and-thanks-for-all-the-fish/
 categories:
   - Ideas
 ---
-<a href="http://www.aquigorka.com/wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c.jpg" rel="attachment wp-att-166"><img class="aligncenter size-medium wp-image-166" src="http://www.aquigorka.com/wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c-300x265.jpg" alt="6a00d8341bf7f753ef0120a6340fc8970c" width="300" height="265" srcset="http://www.aquigorka.com/wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c-300x265.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c.jpg 315w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<img class="aligncenter size-medium wp-image-166" src="/wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c-300x265.jpg" alt="6a00d8341bf7f753ef0120a6340fc8970c" width="300" height="265" srcset="/wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c-300x265.jpg 300w, /wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c.jpg 315w" sizes="(max-width: 300px) 100vw, 300px" />
 
 > <p style="text-align: right;">
 >   <em>2015. Un año divertido. Hubo muchas cosas.</em><br /> <em>Gorka</em>
@@ -25,8 +24,6 @@ Lo dejo con las cosas que tengo en la cabeza, algunas sólo ideas al aire, otras
   * Más ITTT para TODO. Gente abran sus api&#8217;s así podemos hacer un IoT con cualquier cosa.
   * Una marioneta/puppet virtual (que responda a un motor de física) y que se mueva con simulación de la cruz de control desde el giroscopio del celular &#8211; si, momento, este ya lo hice, JA!
 
-Saludos,
-  
-Gorka
-
-&nbsp;
+<p style="text-align: left;">
+  Saludos,<br /> Gorka
+</p>

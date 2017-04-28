@@ -4,12 +4,11 @@ title: The wheels are in motion
 date: 2015-09-09T16:47:40+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=128
 permalink: /2015/09/the-wheels-are-in-motion/
 categories:
   - Ideas
 ---
-[<img class="aligncenter size-medium wp-image-129" src="http://www.aquigorka.com/wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy-300x225.jpg" alt="gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy" width="300" height="225" srcset="http://www.aquigorka.com/wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy-300x225.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.aquigorka.com/wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy.jpg)
+<img class="aligncenter size-medium wp-image-129" src="/wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy-300x225.jpg" alt="gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy" width="300" height="225" srcset="/wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy-300x225.jpg 300w, /wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
 > <div style="text-align: right;">
 >   To teach how to live without certainty, and yet without being paralyzed by hesitation, is perhaps the chief thing that philosophy, in our age, can still do for those who study it.

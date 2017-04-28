@@ -4,12 +4,11 @@ title: Intuición
 date: 2015-08-21T22:53:46+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=122
 permalink: /2015/08/intuicion/
 categories:
   - Ideas
 ---
-[<img class="aligncenter size-medium wp-image-123" src="http://www.aquigorka.com/wp-content/uploads/2015/08/intuition-300x300.jpg" alt="intuition" width="300" height="300" srcset="http://www.aquigorka.com/wp-content/uploads/2015/08/intuition-300x300.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/08/intuition-150x150.jpg 150w, http://www.aquigorka.com/wp-content/uploads/2015/08/intuition.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.aquigorka.com/wp-content/uploads/2015/08/intuition.jpg)
+<img class="aligncenter size-medium wp-image-123" src="/wp-content/uploads/2015/08/intuition-300x300.jpg" alt="intuition" width="300" height="300" srcset="/wp-content/uploads/2015/08/intuition-300x300.jpg 300w, /wp-content/uploads/2015/08/intuition-150x150.jpg 150w, /wp-content/uploads/2015/08/intuition.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />
 
 &nbsp;
 

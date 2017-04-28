@@ -4,12 +4,11 @@ title: Zapatero a sus zapatos
 date: 2015-11-11T10:17:14+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=154
 permalink: /2015/11/zapatero-a-sus-zapatos/
 categories:
   - Ideas
 ---
-[<img class="aligncenter size-medium wp-image-155" src="http://www.aquigorka.com/wp-content/uploads/2015/11/ventilador-300x169.jpg" alt="ventilador" width="300" height="169" srcset="http://www.aquigorka.com/wp-content/uploads/2015/11/ventilador-300x169.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/11/ventilador.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.aquigorka.com/wp-content/uploads/2015/11/ventilador.jpg)
+<img class="aligncenter size-medium wp-image-155" src="/wp-content/uploads/2015/11/ventilador-300x169.jpg" alt="ventilador" width="300" height="169" srcset="/wp-content/uploads/2015/11/ventilador-300x169.jpg 300w, /wp-content/uploads/2015/11/ventilador.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />
 
 <p style="text-align: right;">
   <em>El mayor contraste del surrealismo ha sido siempre la línea entre los sueños y la realidad, y la unión entre lo consciente y lo inconsciente. </em><br /> <em>@ <a href="http://thecreatorsproject.vice.com/es_mx/blog/un-videojuego-para-vivir-los-mundos-de-dali-magritte-y-escher" target="_blank">Video juego de sueños</a></em>
@@ -25,6 +24,6 @@ A lo que contesté que de niño con un juego de mecano decidí hacer un ventilad
 
 El link del quote tiene que ver con lo que ya he venido diciendo: video juegos y mundos virtuales y la imaginación del autor. Los video juegos nos enseñan la manera de entender/ver el mundo por parte del autor. Son expresión personal y querer compartir con el mundo. Espero les guste lo que publique cuando lo publique (y por favor, si pueden, jueguen el juego de los sueños!).
 
-Saludos,
-  
-Gorka
+<p style="text-align: left;">
+  Saludos,<br /> Gorka
+</p>

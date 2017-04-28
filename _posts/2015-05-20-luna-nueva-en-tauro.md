@@ -4,13 +4,12 @@ title: Luna Nueva en Tauro
 date: 2015-05-20T00:39:49+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=75
 permalink: /2015/05/luna-nueva-en-tauro/
 categories:
   - Ideas
 ---
 <p style="text-align: center;">
-  <a href="http://www.aquigorka.com/wp-content/uploads/2015/05/seed.jpg"><img class="aligncenter size-medium wp-image-76" src="http://www.aquigorka.com/wp-content/uploads/2015/05/seed-300x225.jpg" alt="seed" width="300" height="225" srcset="http://www.aquigorka.com/wp-content/uploads/2015/05/seed-300x225.jpg 300w, http://www.aquigorka.com/wp-content/uploads/2015/05/seed.jpg 380w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <img class="aligncenter size-medium wp-image-76" src="/wp-content/uploads/2015/05/seed-300x225.jpg" alt="seed" width="300" height="225" srcset="/wp-content/uploads/2015/05/seed-300x225.jpg 300w, /wp-content/uploads/2015/05/seed.jpg 380w" sizes="(max-width: 300px) 100vw, 300px" />
 </p>
 
 <h3 style="text-align: center;">

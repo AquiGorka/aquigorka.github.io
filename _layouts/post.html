@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% include post.html post=page link_title=false %}
+
+{% if site.author.about %}
+  {% include about.html author=site.author %}
+{% endif %}
+
+{% if site.disqus %}
+{% include comments.html post=page %}
+{% endif %}

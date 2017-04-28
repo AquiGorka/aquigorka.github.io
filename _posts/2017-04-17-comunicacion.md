@@ -4,12 +4,11 @@ title: Comunicación
 date: 2017-04-17T09:58:07+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=182
 permalink: /2017/04/comunicacion/
 categories:
   - Ideas
 ---
-[<img class="aligncenter wp-image-183 size-full" src="http://www.aquigorka.com/wp-content/uploads/2017/04/conway.png" alt="" width="993" height="323" srcset="http://www.aquigorka.com/wp-content/uploads/2017/04/conway.png 993w, http://www.aquigorka.com/wp-content/uploads/2017/04/conway-300x98.png 300w, http://www.aquigorka.com/wp-content/uploads/2017/04/conway-768x250.png 768w" sizes="(max-width: 993px) 100vw, 993px" />](http://www.aquigorka.com/wp-content/uploads/2017/04/conway.png)
+<img class="aligncenter wp-image-183 size-full" src="/wp-content/uploads/2017/04/conway.png" alt="" width="993" height="323" srcset="/wp-content/uploads/2017/04/conway.png 993w, /wp-content/uploads/2017/04/conway-300x98.png 300w, /wp-content/uploads/2017/04/conway-768x250.png 768w" sizes="(max-width: 993px) 100vw, 993px" />
 
 > <p style="text-align: right;">
 >   La calidad de los equipos se puede medir por la calidad de sus conversaciones.
@@ -31,6 +30,6 @@ Quiero decir, a través de herramientas de versión de control descentralizdas (
 
 La cita la encontré cuando me cruce con esta maravilla: [www.mosaic9.org](https://www.mosaic9.org/) que me llevó a esta presentación: <https://www.youtube.com/watch?v=E0s3EGCefB0> &#8211; por ahora no voy a hablar de micro servicios en frontend, es un tema que merece un post en sí solo, pero es algo que vale la pena mucho.
 
-Saludos,
-  
-Gorka
+<p style="text-align: left;">
+  Saludos,<br /> Gorka
+</p>

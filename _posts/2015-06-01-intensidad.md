@@ -4,13 +4,12 @@ title: Intensidad
 date: 2015-06-01T00:12:30+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=90
 permalink: /2015/06/intensidad/
 categories:
   - Ideas
 ---
 <p style="text-align: center;">
-  <a href="http://www.aquigorka.com/wp-content/uploads/2015/05/OK-Computer.jpg"><img class="aligncenter wp-image-91 size-full" src="http://www.aquigorka.com/wp-content/uploads/2015/05/OK-Computer.jpg" alt="OK - Computer" width="736" height="364" srcset="http://www.aquigorka.com/wp-content/uploads/2015/05/OK-Computer.jpg 736w, http://www.aquigorka.com/wp-content/uploads/2015/05/OK-Computer-300x148.jpg 300w" sizes="(max-width: 736px) 100vw, 736px" /></a>
+  <img class="aligncenter wp-image-91 size-full" src="/wp-content/uploads/2015/05/OK-Computer.jpg" alt="OK - Computer" width="736" height="364" srcset="/wp-content/uploads/2015/05/OK-Computer.jpg 736w, /wp-content/uploads/2015/05/OK-Computer-300x148.jpg 300w" sizes="(max-width: 736px) 100vw, 736px" />
 </p>
 
 > <p style="text-align: right;">

@@ -4,12 +4,11 @@ title: Follow your dream
 date: 2015-07-09T01:58:20+00:00
 author: Gorka
 layout: post
-guid: http://www.aquigorka.com/?p=114
 permalink: /2015/07/follow-your-dream/
 categories:
   - Ideas
 ---
-[<img class="aligncenter size-medium wp-image-116" src="http://www.aquigorka.com/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg" alt="dreamcatcher" width="190" height="300" srcset="http://www.aquigorka.com/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg 190w, http://www.aquigorka.com/wp-content/uploads/2015/07/dreamcatcher.jpg 434w" sizes="(max-width: 190px) 100vw, 190px" />](http://www.aquigorka.com/wp-content/uploads/2015/07/dreamcatcher.jpg)
+<img class="aligncenter size-medium wp-image-116" src="/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg" alt="dreamcatcher" width="190" height="300" srcset="/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg 190w, /wp-content/uploads/2015/07/dreamcatcher.jpg 434w" sizes="(max-width: 190px) 100vw, 190px" />
 
 > <p style="text-align: right;">
 >   &#8220;To see the world, things dangerous to come to,<br /> to see behind walls, to draw closer,<br /> to find each other and to feel.<br /> That is the Purpose of LIFE.&#8221;<br /> <em>The secret life of Walter Mitty</em>
@@ -31,8 +30,8 @@ Cada quien tiene que responderse a sí mismo.
 
 Last in, first out: No Strings Attached || <del>Strings</del>.
 
-Saludos,
-  
-Gorka
+<p style="text-align: left;">
+  Saludos,<br /> Gorka
+</p>
 
 P.D. &#8211; &#8230;beautiful things don&#8217;t ask for attention..

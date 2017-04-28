@@ -1,0 +1,38 @@
+---
+id: 114
+title: Follow your dream
+date: 2015-07-09T01:58:20+00:00
+author: Gorka
+layout: post
+guid: http://www.aquigorka.com/?p=114
+permalink: /2015/07/follow-your-dream/
+categories:
+  - Ideas
+---
+[<img class="aligncenter size-medium wp-image-116" src="http://www.aquigorka.com/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg" alt="dreamcatcher" width="190" height="300" srcset="http://www.aquigorka.com/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg 190w, http://www.aquigorka.com/wp-content/uploads/2015/07/dreamcatcher.jpg 434w" sizes="(max-width: 190px) 100vw, 190px" />](http://www.aquigorka.com/wp-content/uploads/2015/07/dreamcatcher.jpg)
+
+> <p style="text-align: right;">
+>   &#8220;To see the world, things dangerous to come to,<br /> to see behind walls, to draw closer,<br /> to find each other and to feel.<br /> That is the Purpose of LIFE.&#8221;<br /> <em>The secret life of Walter Mitty</em>
+> </p>
+
+Hay una razón por la cual nos fijamos en las cosas nimias, por la cual volteamos la cara y le damos valor a las cosas que no tienen valor: Esa razón es el vacío. El vacío que se siente cuando no seguimos nuestro sueño, cuando tenemos miedo de no lograr ser lo que tenemos que ser. Y es tanto el miedo que nos detiene, nos hace ver cosas donde no hay nada, nos da fuerza para mentirnos a nosotros mismos, para engañarnos y creer que lo que hacemos está bien.
+
+La única promesa que puedo hacer es que ese sentimiento nunca se va a ir si no se hace lo que se tiene que hacer. Hay un solo camino, una sola manera de evitar el sentimiento de vacío: de frente y de golpe hacía lo que soñamos, hacía lo que nos deja sin dormir, hacía lo que es más nuestro y sólo nuestro y de nadie más.
+
+Una vida, una oportunidad. Las pistas ya están ahí, sólo hay que unir los cabos y llegar al momento de saber lo que significan y darte cuenta de lo obvio que era llegar a lograrlo.
+
+No Importa a dónde te lleven las pistas, importa disfrutar el camino y atreverse. Pero algo seguro, si decides atreverte, el mundo te va a poner a prueba, para ver si realmente tienes lo que se necesita para lograrlo, tanto en cuerpo como alma.
+
+<h4 style="text-align: center;">
+  Will it be worth it?
+</h4>
+
+Cada quien tiene que responderse a sí mismo.
+
+Last in, first out: No Strings Attached || <del>Strings</del>.
+
+Saludos,
+  
+Gorka
+
+P.D. &#8211; &#8230;beautiful things don&#8217;t ask for attention..

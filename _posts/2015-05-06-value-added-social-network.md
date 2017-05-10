@@ -8,14 +8,16 @@ permalink: /2015/05/value-added-social-network/
 categories:
   - Ideas
 ---
-<img class="aligncenter size-medium wp-image-65" src="/wp-content/uploads/2015/05/value-added-social-network-300x225.jpg" alt="value-added-social-network" width="300" height="225" srcset="/wp-content/uploads/2015/05/value-added-social-network-300x225.jpg 300w, /wp-content/uploads/2015/05/value-added-social-network-1024x768.jpg 1024w, /wp-content/uploads/2015/05/value-added-social-network.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" />
+<img src="/wp-content/uploads/2015/05/value-added-social-network-300x225.jpg" alt="value-added-social-network" srcset="/wp-content/uploads/2015/05/value-added-social-network-300x225.jpg 300w, /wp-content/uploads/2015/05/value-added-social-network-1024x768.jpg 1024w, /wp-content/uploads/2015/05/value-added-social-network.jpg 1600w" sizes="100vw" />
 
-<p style="text-align: right;">
-  <em><strong>value</strong>: the regard that something is held to deserve; the importance, worth, or usefulness of something.</em><br /> <em> <strong>value added</strong>: the amount by which the value of an article is increased at each stage of its production, exclusive of initial costs.</em>
-</p>
+<blockquote>
+  <p style="text-align: right; font-style: italic;">
+    <b>value</b>: the regard that something is held to deserve; the importance, worth, or usefulness of something.<br /><b>value added</b>: the amount by which the value of an article is increased at each stage of its production, exclusive of initial costs.
+  </p>
+</blockquote>
 
 <h3 style="text-align: center;">
-  <strong>How much is your social network worth?</strong>
+  <b>How much is your social network worth?</b>
 </h3>
 
 Lo primero que quiero recalcar es que valor != precio. Luego, propongo las siguientes preguntas:
@@ -29,6 +31,6 @@ No sé si exista una métrica tal cual para medir el valor de la red social de c
 
 Por favor, esta es una idea viva, tomo sus comentarios para seguir desarrollando.
 
-<p style="text-align: left;">
+<p>
   Saludos,<br /> Gorka
 </p>

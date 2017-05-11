@@ -12,7 +12,7 @@ categories:
   <img src="/wp-content/uploads/2015/05/seed-300x225.jpg" alt="seed" srcset="/wp-content/uploads/2015/05/seed-300x225.jpg 300w, /wp-content/uploads/2015/05/seed.jpg 380w" sizes="100vw" />
 </p>
 
-> <p style="text-align: right; text-style: italic;">
+> <p style="text-align: right; font-style: italic;">
 >   You can expect the future to take a definite form or you can treat it as hazily uncertain. If you treat the future as something definite, it makes sense to understand it in advance and to work to shape it. But if you expect an indefinite future ruled by randomness, you'll give up on trying to master it.<br />Zero to One &#8211; Peter Thiel
 > </p> 
 

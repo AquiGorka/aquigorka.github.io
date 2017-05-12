@@ -12,7 +12,7 @@ categories:
   <img src="/wp-content/uploads/2015/03/no-limits-road-300x205.jpg" alt="no-limits-road" srcset="/wp-content/uploads/2015/03/no-limits-road-300x205.jpg 300w, /wp-content/uploads/2015/03/no-limits-road.jpg 500w" sizes="100vw" />
 </p>
 
-> <p style="text-align: right; text-style: italic;">
+> <p style="text-align: right; font-style: italic;">
 >   ...The questions we ask, the choices we make and the challenges we face, are, as always up to us.<br />Chris Kluwe
 > </p>
 

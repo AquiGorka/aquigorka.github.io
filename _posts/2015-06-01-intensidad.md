@@ -13,7 +13,7 @@ categories:
 </p>
 
 > <p style="text-align: right; font-style: italic;">
->   The few who knew what might be learned,<br /> Foolish enough to put their whole heart on show,<br /> And reveal their feelings to the crowd below,<br /> Mankind has always crucified and burned<br />Zero to One: What to do with secrets?
+>   The few who knew what might be learned,<br /> Foolish enough to put their whole heart on show,<br /> And reveal their feelings to the crowd below,<br /> Mankind has always crucified and burned<br /><b>Zero to One</b>: What to do with secrets?
 > </p>
 
 <h3 style="text-align: center;">

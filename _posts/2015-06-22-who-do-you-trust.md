@@ -13,7 +13,7 @@ categories:
 </p>
 
 > <p style="text-align: right; font-style: italic;">
->   The organizational culture best able to accept that ignorance and knowledge grow together is one that values wisdom&#8230; &#8230;In this sense, wisdom understood as simultaneous belief and doubt, improves adaptability.<br /> Prepare Your Organization to Fight Fires; Karl Weick.
+>   The organizational culture best able to accept that ignorance and knowledge grow together is one that values wisdom&#8230; &#8230;In this sense, wisdom understood as simultaneous belief and doubt, improves adaptability.<br /> Prepare Your Organization to Fight Fires - Karl Weick.
 > </p>
 
 Bomberazo(s): típica manera de describir problemas o trabajos que requieren prisa y prioridad. En el contexto del artículo (<a href="https://hbr.org/1996/05/prepare-your-organization-to-fight-fires" target="_blank">Prepare your organization to fight fires</a>) se habla de personas que pelean fuegos y de cómo tienen que actuar ante situaciones que pueden cambiar repentinamente, de manera violenta y que hay que resolver. Y en el artículo, se pone en juicio el tema de la organización como el ente capaz de resolver tales problemas y se entiende a este ente como un equipo, un conjunto de individuos.

@@ -22,7 +22,7 @@ Propongo que el rol del líder en momentos cruciales no tiene que ver con cómo 
 
 Alguna vez un amigo me dijo que en un curso de liderazgo que estaba tomando le repetían hasta el cansancio que cuando el líder se ensucia las manos es síntoma que algo no está bien - muchas veces cuestioné esta idea, pensaba que el líder debe ser aquel "rey filósofo" que ganó el puesto por sus habilidades y capacidades. Hoy lo veo de otra manera: un líder debe ser primero estratega, luego comunicador y después habilidoso.
 
-Creo que una de las mejores estrategias es comunicación abierta y que ayude a generar respeto mutuo para cada parte y por cada parte del equipo. Y esto me recuerda a otra frase que alguna vez me dijeron (me gusta mucho): "_La calidad de los equipos se mide por la calidad de sus conversaciones._
+Creo que una de las mejores estrategias es comunicación abierta y que ayude a generar respeto mutuo para cada parte y por cada parte del equipo. Y esto me recuerda a otra frase que alguna vez me dijeron (me gusta mucho): "_La calidad de los equipos se mide por la calidad de sus conversaciones._"
 
 <h4 style="text-align: center;">
   <strong>¿Qué pasa en esos momentos de fuego?</strong>

@@ -8,10 +8,10 @@ permalink: /2015/07/follow-your-dream/
 categories:
   - Ideas
 ---
-<img src="/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg" alt="dreamcatcher" srcset="/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg 190w, /wp-content/uploads/2015/07/dreamcatcher.jpg 434w" sizes="100vw" />
+<img style="margin: auto;" src="/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg" alt="dreamcatcher" srcset="/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg 190w, /wp-content/uploads/2015/07/dreamcatcher.jpg 434w" sizes="30vw" />
 
-> <p style="text-align: right;">
->   _"To see the world, things dangerous to come to,<br /> to see behind walls, to draw closer,<br /> to find each other and to feel.<br /> That is the Purpose of LIFE.&#8221;<br /> The secret life of Walter Mitty"_
+> <p style="text-align: right; font-style: italic;">
+>   "To see the world, things dangerous to come to,<br /> to see behind walls, to draw closer,<br /> to find each other and to feel.<br /> That is the Purpose of LIFE.&#8221;<br /> The secret life of Walter Mitty"
 > </p>
 
 Hay una razón por la cual nos fijamos en las cosas nimias, por la cual volteamos la cara y le damos valor a las cosas que no tienen valor: Esa razón es el vacío. El vacío que se siente cuando no seguimos nuestro sueño, cuando tenemos miedo de no lograr ser lo que tenemos que ser. Y es tanto el miedo que nos detiene, nos hace ver cosas donde no hay nada, nos da fuerza para mentirnos a nosotros mismos, para engañarnos y creer que lo que hacemos está bien.

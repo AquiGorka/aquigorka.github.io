@@ -30,6 +30,6 @@ Uniendo las ideas que me generaron ambos textos me atrevo a pensar/escribir en v
 
 Me encantaría saber que piensan - ahí están los comentarios.
 
-<p style="text-align: left;">
+<p>
   Saludos,<br /> Gorka
 </p>

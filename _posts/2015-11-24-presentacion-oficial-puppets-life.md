@@ -8,7 +8,7 @@ permalink: /2015/11/presentacion-oficial-puppets-life/
 categories:
   - Ideas
 ---
-<img src="/wp-content/uploads/2015/11/puppets-199x300.jpg" alt="puppets" srcset="/wp-content/uploads/2015/11/puppets-199x300.jpg 199w, /wp-content/uploads/2015/11/puppets-680x1024.jpg 680w, /wp-content/uploads/2015/11/puppets.jpg 1062w" sizes="100vw" />
+<img style="margin: auto;" src="/wp-content/uploads/2015/11/puppets-199x300.jpg" alt="puppets" srcset="/wp-content/uploads/2015/11/puppets-199x300.jpg 199w, /wp-content/uploads/2015/11/puppets-680x1024.jpg 680w, /wp-content/uploads/2015/11/puppets.jpg 1062w" sizes=20vw" />
 
 > <p style="text-align: right; text-style:italic;">
 >   I wanted to go beyond the most used example of using the smartphone as a steering wheel for a simulated car and showcase something that mimics life itself, hence the puppet.<br /> @ <a href="http://igg.me/at/puppets-life" target="_blank">Puppets.life</a>

@@ -8,7 +8,7 @@ permalink: /2017/05/nuevas-herramientas/
 categories:
   - Ideas
 ---
-<img src="/wp-content/uploads/2017/05/hand-tools.png" alt="Digital toolset" />
+<img src="/wp-content/uploads/2017/05/hand-tools.jpg" alt="Digital toolset" />
 
 > <p style="text-align: right; font-style: italic;">
 > La tecnología.<br />La tecnología ha de ser invisible para los usuarios. No tienes por qué entregar una lata de refresco con un drone si puedes entregarla en mano previamente, porque lo que importa es que el usuario tiene sed, no que tú tengas un drone.<br />Daniel Granatta

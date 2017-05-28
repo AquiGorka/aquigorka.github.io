@@ -38,7 +38,7 @@ Es lo más divertido. Es un editor de texto al estilo línea de comando, dónde 
 
 Tiene un _learning curve_ alto, pero te acostumbras y poco a poco lo usas para todo. Y lo divertido es que tiene plugins y una comunidad gigante haciendo mejoras constantemente. Hoy por hoy, mi editor of choice.
 
-## tmux
+## tmux
 
 Trabajando con Vim ahora de repente me la vivía acomodando ventanas por todos lados y tuve que buscar un tile manager para hacer eso de manera rápida. Luego aprendí que con Vim puedo tener varios archivos abiertos y trabajar entre ellos, así sólo necesito 1 ventana abierta al máximo y hacía el splitting desde Vim. Kapow!, llegó tmux (y es gracioso, uso tmux en iTerm que puede ser un overkill pero hay lugares donde no tengo iTerm así que de esta manera es todo una sola forma). En fin, tmux: una solo programa tamaño máximo y ahí mismo múltiples sesiones, es algo como múltiples escritorios dentro de un solo programa.
 

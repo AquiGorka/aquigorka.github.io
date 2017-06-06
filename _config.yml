@@ -45,7 +45,7 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-  Mi nombre es Gorka. Hoy en día me llama mucho la atención todo lo que tenga que ver con realidad virtual, realidad aumentada, videojuegos e interfaces de control humano-software.<br />https://github.com/AquiGorka<br />http://AquiGorka.net
+  `Mi nombre es Gorka. Hoy en día me llama mucho la atención todo lo que tenga que ver con realidad virtual, realidad aumentada, videojuegos e interfaces de control humano-software.<br />https://github.com/AquiGorka<br />http://AquiGorka.net`
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

@@ -44,10 +44,10 @@ author:
   photo2x: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAiYAAAAJDU5OTcyODQ5LTA0YmMtNDM1ZS05MzU5LTc4NTc4YmFjNDdiNQ.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-  Mi nombre es Gorka. Hoy en día me llama mucho la atención todo lo que tenga que ver con realidad virtual, realidad aumentada, videojuegos e interfaces de control humano-software.
-  https://github.com/AquiGorka
-  http://AquiGorka.net
+  about: |
+    Mi nombre es Gorka. Hoy en día me llama mucho la atención todo lo que tenga que ver con realidad virtual, realidad aumentada, videojuegos e interfaces de control humano-software.
+    https://github.com/AquiGorka
+    http://AquiGorka.net
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

@@ -4,7 +4,7 @@ title: Waking Life Chapter 6.2
 date: 2007-10-09T11:27:07+00:00
 author: Gorka
 layout: post
-permalink: /2017/10/waking-life-chapter-6.2/
+permalink: /2007/10/waking-life-chapter-6.2/
 categories:
   - Ideas
 ---

@@ -1,7 +1,7 @@
 ---
 id: 184
 title: Experimento #1: Escribiéndolo todo
-date: 2017-05-28T11:27:07+00:00
+date: 2007-08-07T11:27:07+00:00
 author: Gorka
 layout: post
 permalink: /2007/08/experimento-1-escribiendolo-todo/

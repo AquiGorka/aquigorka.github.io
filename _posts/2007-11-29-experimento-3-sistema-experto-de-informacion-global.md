@@ -4,7 +4,7 @@ title: "Experimento #3: Sistema Experto de Información Global"
 date: 2007-11-29T11:27:07+00:00
 author: Gorka
 layout: post
-permalink: /2017/11/experimento-3-sistema-experto-de-informacion-global/
+permalink: /2007/11/experimento-3-sistema-experto-de-informacion-global/
 categories:
   - Ideas
 ---

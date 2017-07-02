@@ -1,6 +1,6 @@
 ---
 id: 90
-title: LA Recreación del Mundo
+title: La Recreación del Mundo
 date: 2009-04-07T11:27:07+00:00
 author: Gorka
 layout: post

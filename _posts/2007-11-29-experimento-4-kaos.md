@@ -25,10 +25,12 @@ En Kaos se generarán diferentes piezas, cualquiera que participe las puede recl
 Saludos,<br />
 Gorka
 
-El experimento ya no está activo, este era el texto que lo introducía:
+El experimento ya no está activo, este era el texto que servía de introducción:
 
 > Creo firmemente que existe una relación directa entre cualquier obra de arte y la cosmovisión de su autor, sin embargo gracias a las computadoras se pueden crear o recrear obras de arte evitando el concepto atrás de la pieza, es decir, sin entender el mundo que realmente las pudo o podría llevar a cabo. Esto se consigue con un algoritmo caótico o azaroso que genera de manera aleatoria archivos (imágenes, textos o música). 
 <br />
+<br />
 ¿Si cualquier obra de arte se pudiera crear de esta manera, dónde queda el papel del artista? ¿Se puede realmente romper el vínculo entre el artista y la pieza? ¿Es posible la obra sin su cosmovisión? ¿Si alguien descubriera una obra de arte antes que un artista la creara, quién es el verdadero autor? 
+<br />
 <br />
 ¿Se pueden encontrar realmente obras de arte de esta manera? La posibilidad es muy baja, pero no es imposible; tal posibilidad es directamente proporcional al número de personas participando. 

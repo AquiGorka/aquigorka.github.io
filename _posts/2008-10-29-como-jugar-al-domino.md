@@ -1,6 +1,6 @@
 ---
 id: 79
-title: Cdomo jugar al dominó
+title: Como jugar al dominó
 date: 2008-10-29T11:27:07+00:00
 author: Gorka
 layout: post

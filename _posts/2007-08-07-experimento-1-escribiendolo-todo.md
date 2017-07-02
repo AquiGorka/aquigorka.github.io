@@ -1,5 +1,5 @@
 ---
-id: 184
+id: 30
 title: "Experimento #1: Escribiéndolo todo"
 date: 2007-08-07T11:27:07+00:00
 author: Gorka

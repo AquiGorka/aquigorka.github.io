@@ -1,6 +1,6 @@
 ---
 id: 72
-title: Algp para pensar
+title: Algo para pensar
 date: 2008-03-01T11:27:07+00:00
 author: Gorka
 layout: post

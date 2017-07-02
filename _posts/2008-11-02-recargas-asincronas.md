@@ -9,12 +9,15 @@ categories:
   - Ideas
 ---
 **¿Qué es?**
+
 Básicamente sirven para poder obtener información para enseñarla en una página Web sin tener que recargar toda la página.  Dado que las páginas muchas veces tienen información que siempre es la misma (menús, banners, footers, headers, sidebars, etc) es más rápido sólo recargar el contenido en sí.
 
 **¿Que diferencia hay?**
+
 Multiprocesamiento. Lo cual permite que todo sea más rápido.
 
 **Tecnologías**
+
 HTML es un lenguaje orientado a eventos (click o no click), es completamente síncrono, no pueden existir dos eventos al mismo tiempo. Es decir, un solo proceso de forma secuencial.
 
 Flash y AJAX son tecnologías que pueden usar eventos asíncronos. Pueden existir tantos eventos simultáneos como el PC pueda llevar a cabo y pueden ser de muchos tipos diferentes (interacción con todos los periféricos de la PC). Es decir “N” número de procesos en forma totalmente descontrolada (pero controlada por event Handlers).

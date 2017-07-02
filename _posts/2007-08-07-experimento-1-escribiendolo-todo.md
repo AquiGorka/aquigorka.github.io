@@ -1,6 +1,6 @@
 ---
 id: 184
-title: Experimento \#1: Escribiéndolo todo
+title: "Experimento #1: Escribiéndolo todo"
 date: 2007-08-07T11:27:07+00:00
 author: Gorka
 layout: post

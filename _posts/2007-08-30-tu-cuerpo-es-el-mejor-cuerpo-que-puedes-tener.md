@@ -1,7 +1,7 @@
 ---
 id: 69
 title: Tu cuerpo es el mejor cuerpo que puedes tener
-date: 2007-08-23T11:27:07+00:00
+date: 2007-08-30T11:27:07+00:00
 author: Gorka
 layout: post
 permalink: /2007/08/tu-cuerpo-es-el-mejor-cuerpo-que-puedes-tener.md

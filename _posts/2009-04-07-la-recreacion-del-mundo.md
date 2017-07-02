@@ -36,7 +36,7 @@ Luego dijo: haya expansión enmedio de las aguas, de modo
 <br />
 y manera que las aguas que estaban sobre la expansión
 <br />
-quedaron separadas de las otras , las que estaban debajo de
+quedaron separadas de las otras, las que estaban debajo de
 <br />
 la expansión esa. Bueno ustedes me entienden…
 <br />
@@ -80,5 +80,5 @@ Y así fue borrón y cuenta nueva…
 
 rius
 
-Saludos,
+Saludos,<br />
 Gorka

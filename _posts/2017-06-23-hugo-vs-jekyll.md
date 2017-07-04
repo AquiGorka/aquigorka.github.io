@@ -36,5 +36,5 @@ Las ventajas de ambos: mis dos blogs (este y AquiGorka.net) van mucho más rápi
 
 Se me hizo medio largo el post de introducción, así que acá lo dejo por ahora.
 
-Saludos,
+Saludos,<br />
 Gorka

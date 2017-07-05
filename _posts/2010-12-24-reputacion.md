@@ -12,7 +12,7 @@ categories:
 
 Hace unos días que me quiero poner al corriente con todas las TED Talks que tengo en mi itunes (115+) y pues ando más o menos forzándome a ver unas 5 diarias (así terminaré a fin de enero… pfffff… hahaha) y entre lo que ví estos días me encontré con esta joya:
 
-<iframe src="https://embed.ted.com/talks/rachel_botsman_the_case_for_collaborative_consumption" width="854px" height="480px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<p><iframe src="https://embed.ted.com/talks/rachel_botsman_the_case_for_collaborative_consumption" width="854px" height="480px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
 
 La idea principal no es la que me hizo reflexionar sino una idea final que platica que tiene que ver con la reputación como “moneda del futuro”. Lo que se propone es que según la reputación que uno tenga es el nivel de interacción y consumo que se puede tener.
 

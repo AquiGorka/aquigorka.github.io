@@ -8,7 +8,7 @@ permalink: /2010/12/calendarios/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2010/12/calendario-48-simbolos-zodiaco.jpg" alt="Calendarios" />
+<img style="margin: auto;" src="/wp-content/uploads/2010/12/calendario-48-simbolos-zodiaco.png" alt="Calendarios" />
 
 Creo que desde chico he tenido un asombro por las cosas que tienen que ver con ciclos, siento una gran sopresa cuando algo que parece aleatorio resulta ser parte de “algo más grande” que pertenece a un ciclo (y no a magia o caprichos egocéntricos baratos – me refiero a tí catolicismo), de ahí que me interese tanto un tema tan trivial como son los calendarios.
 

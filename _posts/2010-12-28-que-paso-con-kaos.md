@@ -8,7 +8,7 @@ permalink: /2010/12/que-paso-con-kaos/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2010/12/koas2.gif" alt="Kaos" />
+<img style="margin: auto;" src="/wp-content/uploads/2010/12/kaos2.gif" alt="Kaos" />
 
 Tuve un experimento que se llamaba “Kaos” el cual tenía como propuesta crear de manera aleatoria textos y de uno en uno llegar a escribir todos los textos posibles. Se le daba una lista de símbolos, se definía una frecuencia de aparición de cada símbolo y se les asociaba a un link fijo. La idea es que si eventualmente generaban contenido legible (tanto semánticamente como gramaticalmente correcto) los buscadores de Internet tendrían indexado tal contenido y se verían reflejadas visitas a tal contenido.
 

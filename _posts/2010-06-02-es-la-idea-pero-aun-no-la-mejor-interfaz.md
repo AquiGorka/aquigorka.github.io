@@ -15,7 +15,7 @@ Real Time Augmented Reality, esto es el futuro:
 
 <p><iframe src="https://embed.ted.com/talks/lang/en/pranav_mistry_the_thrilling_potential_of_sixthsense_technology" width="854px" height="480px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
 
-Saludos,
+Saludos,<br />
 Gorka
 
 P.D. - esta plática es vieja así que puede ser que ya haya mejorado el proyecto...

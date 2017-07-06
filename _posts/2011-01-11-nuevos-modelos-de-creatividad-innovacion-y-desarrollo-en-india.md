@@ -8,7 +8,7 @@ permalink: /2011/01/nuevos-modelos-de-creatividad-innovacion-y-desarrollo-en-ind
 categories:
   - Ideas
 ---
-<iframe src="https://embed.ted.com/talks/anil_gupta_india_s_hidden_hotbeds_of_invention" width="854px" height="480px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<p><iframe src="https://embed.ted.com/talks/anil_gupta_india_s_hidden_hotbeds_of_invention" width="854px" height="480px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
 
 Cada vez me parece más interesante vivir en el mundo actual. El espacio que hay para innovar parece aumentar y las herramientas para llevar a cabo lo que uno se propone cada vez son más accesibles. A esto me refiero cuando digo “hay que recrearlo todo”, quiero decir que no hay que dar nada por “aceptado” sólo porque así nos tocó, porque así lo hicieron “unos” que llegaron antes que nosotros. Es buen momento para llevar a cabo proyectos por uno mismo (diy – do it yourself) que puedan hacer uso de “crowdsource” – no recuredo bien donde o quien fue, pero gracias al crowdsource se tienen recursos ilimitados para resolver un problema, lo que hace falta ahora es el “liderazgo” para aprovechar esos recursos para atacar el problema y obtener una solución.
 

@@ -25,5 +25,5 @@ categories:
 </p>
 
 <p>
-  Saludos;<br /> Gorka
+  Saludos,<br /> Gorka
 </p>

@@ -9,7 +9,7 @@ categories:
   - Ideas
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oY59wZdCDo0" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oY59wZdCDo0" frameborder="0" allowfullscreen></iframe></p>
 
 De niño está frase me gustó mucho. Implica un par de cosas:
 
@@ -22,7 +22,7 @@ Sobre el segundo, es increible darse cuenta que somos una pequeña basurita en e
 
 Pero algo que ayer me puse a pensar es que el hombre como especie sí es muy importante y tiene que ver con otra frase (creo que la escuché por primera vez por la universidad, pero es de esas frases sin nombre):
 
-<p style="text-align: center;">**Un hombre/mujer puede llegar tan lejos como su vista alcanza a ver...**</p>
+<p style="text-align: center; font-weight: bold;">Un hombre/mujer puede llegar tan lejos como su vista alcanza a ver...</p>
 
 Y sobre esa frase y lo primero que escribí lo que quiero decir es que hay “cosas” que no se pueden ver fisicamente, pero si se pueden ver con la mente (iba a poner el “ojo de la imaginación” pero no, hahahaha) y es lo que realmente nos da una GRAN diferencia con cualquier otra especie, ese poder de abstracción y de conceptualización para visualizar/imaginar lo que no es físico.
 

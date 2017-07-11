@@ -8,7 +8,7 @@ permalink: /2011/01/sincronizacion/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/img/2011/01/synchronization.jpg" alt="Sincronización" />
+<img style="margin: auto;" src="/public/img/2011/01/synchronization.jpg" alt="Sincronización" />
 
 Este es un post tranquilo en el que voy a explicar el concepto de sincronizar servicios (especificamente email, calendario, rss, un poco de archivos y multimedia):
 

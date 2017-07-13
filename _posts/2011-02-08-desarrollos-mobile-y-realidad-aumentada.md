@@ -8,7 +8,7 @@ permalink: /2010/02/desarrollos-mobile-y-realidad-aumentada/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/images/2011/02/facebook.jpg" alt="AR" />
+<img style="margin: auto;" src="/public/img/2011/02/facebook.jpg" alt="AR" />
 
 > By the end of 2011, an estimated one billion people around the world will be connected to the mobile web and 50% of all Americans will own a smartphone. Because of the explosion of web-enabled mobile devices, mobile usage is now on a hockey-stick trajectory: searches on smartphones and tablets have increased by 4x in the last year, and the world of mobile apps continues to engage mobile users—125 years’ worth of Angry Birds are played every day!
 

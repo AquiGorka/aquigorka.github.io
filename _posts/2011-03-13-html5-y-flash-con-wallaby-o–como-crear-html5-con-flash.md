@@ -8,7 +8,7 @@ permalink: /2011/03/html5-y-flash-con-wallaby-o–como-crear-html5-con-flash/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2011/03/html5vsflash.jpg" alt="HTML5 vs Flash" />
+<img style="margin: auto;" src="/public/img/2011/03/html5vsflash.png" alt="HTML5 vs Flash" />
 
 ¿Siguen con la pelea de HTML5 vs. FLash? Qué es mejor? Qué usar? Qué, qué, qué? – Ya no importa (bueno, no tal cual).
 

@@ -8,7 +8,7 @@ permalink: /2011/03/experimento-para-hablar-con-telepatia/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2011/03/elepatia.jpg" alt="Telepatía" />
+<img style="margin: auto;" src="/public/img/2011/03/telepatia.jpg" alt="Telepatía" />
 
 Hace unos años desarrollé un experimento práctico con el cual puedes transmitir datos sin decirlos (y sin creer que alguien puede _“leer la mente”_ la idea es que puedes decir más de lo que las palabras que estás transmitiendo significan – ojo, esto no es tan raro, al contrario muchos han oído hablar de lenguaje corporal y esas cosas). El experimento tuvo resultados MUY divertidos y hasta prometedores pero como es una actividad cansada no lo seguí realizando (ayer se me ocurrió una segunda versión de este que luego les platicaré).
 

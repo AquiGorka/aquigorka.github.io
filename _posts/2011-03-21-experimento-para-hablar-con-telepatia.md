@@ -22,7 +22,7 @@ Cualquiera puede realizarlo, se necesitan un mínimo de dos personas pero sólo 
 
 La verdad es que es bastante sencillo pero una vez que se domina se pueden alterar ciertos detalles con los cuales este experimento puede conseguir resultados mucho más llamativos: imaginen cambiar los colores por otras palabras, así poco a poco podrían transmitir hasta enunciados/ideas completas _“escondidas”_ dentro de lo que están diciendo (que a su vez podría ser hasta una conversación completamente fluída – una onda como de espías… hahaha).
 
-En cuanto a los resultados, la verdad es que no los tengo tal cual cuantificados pero lo hice con mi hermano y Lú y la verdad es que nos sorprendimos mucho cuando facilmente empezamos a adivinar rachas de hasta 10 colores/números seguidos (con más práctica hubieramos podido escalarlo a otras cosas pero les repito, es de mucha práctica y te terminas aburriendo aún con los buenos resultados).
+En cuanto a los resultados, la verdad es que no los tengo tal cual cuantificados pero lo hice con un par de personas y la verdad es que nos sorprendimos mucho cuando facilmente empezamos a adivinar rachas de hasta 10 colores/números seguidos (con más práctica hubieramos podido escalarlo a otras cosas pero les repito, es de mucha práctica y te terminas aburriendo aún con los buenos resultados).
 
 No me acuerdo si ya había escrito acerca de este experimento pero igual lo quise compartir rápido porque este post es debido de la semana pasada, así que esta semana todavía esperen dos posts más.
 

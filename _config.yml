@@ -27,7 +27,7 @@ description:         >
 #sidebar_tags: [ideas]
 
 # Fallback image and color if not overwritten for tag or post
-image: /public/img/night-dark-blur-blurred.jpg
+image: /public/img/background.jpg
 color: '#1A6158'
 
 # Fonts

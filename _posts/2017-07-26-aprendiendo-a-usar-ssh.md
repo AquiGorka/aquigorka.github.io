@@ -13,7 +13,7 @@ categories:
 
 > <p style="text-align: right; font-style: italic;">Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network. The best known example application is for remote login to computer systems by users.<br />
 <br />
-ssh @ Wikipedia[^1]</p>
+ssh @ <a href="https://en.wikipedia.org/wiki/Secure_Shell">Wikipedia</a></p>
 
 ## ssh
 
@@ -72,4 +72,3 @@ Así que ahí está, ya iré aprendiendo más y compartiendo como hacer más cos
 Saludos,<br />
 Gorka
 
-[^1]: https://en.wikipedia.org/wiki/Secure_Shell

@@ -64,7 +64,6 @@ Esto está muy divertido ya que ahora tenemos una VPN (por ahora de emergencia, 
 ```sh
 ssh -D 9002 user@ip.de.servidor
 
-# despues de las configuraciones locales los navegadores ya deberían estar usando el tunel
 curl --socks5 localhost:9002 www.aquigorka.com
 ```
 

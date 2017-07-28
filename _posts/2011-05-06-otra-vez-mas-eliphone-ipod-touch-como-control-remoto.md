@@ -32,7 +32,7 @@ En pocos y fáciles pasos pueden hacer todo esto:
 2. Una pc/mac
 3. Acceso a Internet o una Red Propia
 
-Pasos:
+**Pasos**:
 
 - Descargar la app pertinente de app store (o todas si así lo quieren) – búsquenlas con el nombre de JUMI (son Jumi Mouse, Jumi Cam, Jumi Gamer, Jumi Fly y otras…) y luego instalarla.
 - Descargar Jumi Controller a su pc o mac

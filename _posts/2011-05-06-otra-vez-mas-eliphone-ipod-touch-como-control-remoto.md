@@ -1,7 +1,7 @@
 ---
 id: 20110506
 title: "Otra vez más: el iPhone/iPod Touch como control remoto"
-date: 2011-06-06T11:27:07+00:00
+date: 2011-05-06T11:27:07+00:00
 author: Gorka
 layout: post
 permalink: /2011/05/otra-vez-mas-el-iphone-ipod-touch-como-control-remoto/

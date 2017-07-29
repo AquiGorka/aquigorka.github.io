@@ -1,6 +1,6 @@
 ---
 id: 20110508
-title: "¿Qué hacer cuando un cliente tiene \"dificultades\" para pagar?"
+title: "¿Qué hacer cuando un cliente tiene 'dificultades' para pagar?"
 date: 2011-05-08T11:27:07+00:00
 author: Gorka
 layout: post

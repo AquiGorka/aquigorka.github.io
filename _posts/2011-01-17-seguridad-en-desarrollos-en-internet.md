@@ -26,7 +26,7 @@ Vivimos en un mundo en el que realmente si alguien quiere atacarte hay miles de 
 
 <p style="text-align: center;">¿Debería ser igual para Internet?</p>
 
-¿<p style="text-align: center;">Deberíamos decidir no volvernos locos por todo lo que podría pasar, sabiendo que si realmente alguien nos va a atacar es 100% seguro que encuentre una manera de hacerlo?</p>
+<p style="text-align: center;">¿Deberíamos decidir no volvernos locos por todo lo que podría pasar, sabiendo que si realmente alguien nos va a atacar es 100% seguro que encuentre una manera de hacerlo?</p>
 
 Es decir, además de lo que hacemos diario, ahora también tenemos que preocuparnos por buenas prácticas de desarrollo en cuanto a seguridad en nuestros negocios en Internet?
 

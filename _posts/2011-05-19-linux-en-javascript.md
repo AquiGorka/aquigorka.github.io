@@ -22,7 +22,7 @@ Cada vez más y más el navegador tiene más poder y control sobre nuestro uso d
 
 Es decir, que cada vez es más y más peligroso simplemente hacer click (bueno, si consideran el ataque estilo “clickjacking” – como el que se ha visto en facebook últimamente – entonces ya ni siquiera eso..) y cada vez será peor.
 
-¿Qué se puede hacer al respecto? No mucho realmente porque si sólo se considera la seguridad entonces hay que obviar la experiencia que puede brindar javascript (para los que no lo saben pueden usar NoScript de Firefox para eliminar javascript) pero eso está super chafa porque gracias a javascript tenemos grandes oportunidades como WebGL (páginas que pronto van a usar mnodelos y ambientes 3D sin límite), entonces? Pues yo la veo difícil, tal vez se implemente un header de javascript seguro o un “signed javascript” pero eso sigue dando permiso al desarrollador legítimo de usar nuestro browser como shell remoto de javascript… en fin, ya les iré avisando que pasa.
+¿Qué se puede hacer al respecto? No mucho realmente porque si sólo se considera la seguridad entonces hay que obviar la experiencia que puede brindar javascript (para los que no lo saben pueden usar NoScript de Firefox para eliminar javascript) pero eso está super chafa porque gracias a javascript tenemos grandes oportunidades como WebGL (páginas que pronto van a usar modelos y ambientes 3D sin límite), entonces? Pues yo la veo difícil, tal vez se implemente un header de javascript seguro o un “signed javascript” pero eso sigue dando permiso al desarrollador legítimo de usar nuestro browser como shell remoto de javascript… en fin, ya les iré avisando que pasa.
 
 Saludos,<br />
 Gorka

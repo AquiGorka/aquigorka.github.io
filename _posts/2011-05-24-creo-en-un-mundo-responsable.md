@@ -16,7 +16,7 @@ A veces he sido llamado ciertas cosas por ciertos comentarios, pero es porque mi
 
 Es a mi parecer que podemos crear un mundo conectado, abierto y con sistemas abiertos y sencillos de comunicación en el cual se critique a aquellos que abusan de ideales humanos para “no mover un dedo” y conseguir lo que quieren de la misma manera que aquellos que consideran al ser humano como un “número más en una estadística” y por lo tanto, lo digo y lo repetiré:
 
-<p style="font-weight: bold; text-align: center">"“Mientras sea capaz de usar este regalo que recibí (que llamaré razón) trataré de llevar a cabo acciones que promuevan el aprendizaje y uso del mismo para mejora de la condición de vida de todo aquello que se concibe con él.”</p>
+<p style="font-weight: bold; text-align: center">“Mientras sea capaz de usar este regalo que recibí (que llamaré razón) trataré de llevar a cabo acciones que promuevan el aprendizaje y uso del mismo para mejora de la condición de vida de todo aquello que se concibe con él.”</p>
 
 Saludos,<br />
 Gorka

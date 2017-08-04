@@ -41,7 +41,7 @@ Así que bueno, se ve fácil, ya les diré como me va.
 Saludos,<br />
 Gorka
 
-Aui les dejo links de referencia:
+Aqui les dejo links de referencia:
 
 - http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=ipad+share+3g+internet+connection#sclient=psy&hl=en&source=hp&q=ipad+iproxy&aq=f&aqi=g1&aql=&oq=&pbx=1&bav=on.2,or.r_gc.r_pw.&fp=c9ba145ff8753b37
 - http://www.avforums.com/forums/ipad-ipad-2/1241501-iproxy-ipad-tethering.html

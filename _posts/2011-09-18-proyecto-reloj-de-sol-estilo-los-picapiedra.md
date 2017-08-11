@@ -21,7 +21,7 @@ En una futura actualización hasta me podría conectar a un sistema de clima y s
 - funcionalidad de hora (para cálculos a la hora de desplegar la sombra y si es que hay sombra – que pasa si lo ven bocaabajo)
 - funcionalidad básica de app (secciones, botonería, eventos, etc)
 
-**DISEÑO:**
+**Diseño:**
 - si alguien se la rifa ayudándome con esto sería muy chido, sino ahí a ver qué hago..
 
 Un proyecto más a la lista, también es sencillo y ya usa un par de técnicas más avanzadas así que será un resultado divertido.

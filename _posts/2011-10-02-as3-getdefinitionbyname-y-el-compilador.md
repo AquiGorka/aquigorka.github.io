@@ -33,7 +33,11 @@ Entonces cómo se resuelve esto? Como lo puse arriba: haciendo una referencia co
 
 Aunque esto implica que se tienen que agregar todas las clases que se van a usar de manera dinámica una por una, aún así se puede aprovechar la función getDefinitionByName para eficientar códigos (igual habría que hacer realmente un benchmark de uso de recursos de instancias reales vs. referencia clases e instanciación de una en una para ver qué camino es mejor).
 
-Espero esto ayude a aquellos que querían usar el método y les mandaba el error: “ReferenceError: Error #1065: Variable nombre_de_la_clase is not defined.”
+Espero esto ayude a aquellos que querían usar el método y les mandaba el error:
+
+```AS3
+ReferenceError: Error #1065: Variable nombre_de_la_clase is not defined
+```
 
 Saludos,<br />
 Gorka

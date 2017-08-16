@@ -1,6 +1,6 @@
 ---
 id: 20111102
-title: "Boveda de ideas: esaideaesmia.com"
+title: "Bóveda de ideas: esaideaesmia.com"
 date: 2011-11-02T11:27:07+00:00
 author: Gorka
 layout: post

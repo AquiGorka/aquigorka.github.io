@@ -1,7 +1,7 @@
 ---
 id: 20111103
 title: Usen Akismet si tienen wordpress
-date: 2011-04-02T11:27:07+00:00
+date: 2011-11-03T11:27:07+00:00
 author: Gorka
 layout: post
 permalink: /2011/11/uen-akismet-si-tienen-wordpress/

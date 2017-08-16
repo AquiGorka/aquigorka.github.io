@@ -8,7 +8,7 @@ permalink: /2011/11/uen-akismet-si-tienen-wordpress/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2011/11/no-sapm.png" alt="No spam" />
+<img style="margin: auto;" src="/public/img/2011/11/no-spam.png" alt="No spam" />
 
 La verdad es que desde que empecé a usar más a fondo WordPress encuentro que hay plugins, scripts, widgets, y otros MUY bien hechos. En este momento hablo del plugin Akismet que funciona para revisar los comments que llegan al website y compararlos contra un sistema que los califica como spam o como “libres”.
 

@@ -21,7 +21,7 @@ Desde que active Akismet me he relajado de una manera real y ahora ni siquiera m
 - Activar el plugin (viene incluido por default en las instalaciones de WordPress)
 - Entrar a akismet.com y regsitrarse (esto era lo que más me detenia porque ya estoy harto de todos los miles de registros que hay que hacer, pero bueno, lo vale)
 - Escoger un sistema de pago (hay desde planes de grandes empresas hasta planes para personas y la opción de no pagar – ahora, ellos hacen esta pregunta: ¿cuánto vale akismet y sus servicios para ti? y tu puedes mover una barrita que va desde 10 dls mensuales hasta 0 – cuánto vale para cada uno es diferente, seguro así que este método de cobranza me parece increible!)
--Una vez que terminas los pasos anteriores recibes un API key, el cual se tiene que agregar en los Settings de Akismet en wordpress.
+- Una vez que terminas los pasos anteriores recibes un API key, el cual se tiene que agregar en los Settings de Akismet en wordpress.
 
 Listo. A disfrutar una vida libre de spam.
 

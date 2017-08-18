@@ -15,7 +15,7 @@ categories:
 La verdad es que es una plática de hace DOS AÑOS y por suerte la pude ver (tengo una lista de ted talks por ver eterna pero prefiero no borrarlas porque me podría perder joyas como esta).
 Lo que hacen es analizar los mecanismos con los cuales se generan las interacciones entre neuronas y la manera (única) en que cada persona y su corteza cerebral las maneja. Con esto y un software super increiblemente complicado, pueden básicamente “leer la mente”.
 
-<p style="align: center; font-weight: bold;">Esa lectura de mente + interfaces nuevas = el futuro.</p>
+<p style="text-align: center; font-weight: bold;">Esa lectura de mente + interfaces nuevas = el futuro.</p>
 
 En la plática hablan de juegos, pero imaginen aplicaciones más prácticas, para arquitectos, para medicina, para ingeniería.. En unión con realidad aumentada es el verdadero futuro, es más, ahí lo tienen, creo que mi empresa para el futuro será una que desarrolle software de Realidad Aumentada para este tipo de dispositivos.
 

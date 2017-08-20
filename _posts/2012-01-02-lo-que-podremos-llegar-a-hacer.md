@@ -8,9 +8,9 @@ permalink: /2012/01/lo-que-podremos-llegar-a-hacer/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2012/01/404.jpg" alt="404" />
-
-**No pude recuperar el video :(**
+<p>
+<iframe src="https://embed.ted.com/talks/tan_le_a_headset_that_reads_your_brainwaves" width="100%" height="480px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</p>
 
 La verdad es que es una plática de hace DOS AÑOS y por suerte la pude ver (tengo una lista de ted talks por ver eterna pero prefiero no borrarlas porque me podría perder joyas como esta).
 Lo que hacen es analizar los mecanismos con los cuales se generan las interacciones entre neuronas y la manera (única) en que cada persona y su corteza cerebral las maneja. Con esto y un software super increiblemente complicado, pueden básicamente “leer la mente”.

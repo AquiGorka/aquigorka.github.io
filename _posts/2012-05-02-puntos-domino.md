@@ -8,7 +8,7 @@ permalink: /2011/05/puntos-domino/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2012/05/puntos-domino.jpg" alt="Puntos Dominó" />
+<img style="margin: auto;" src="/public/img/2012/05/puntos-domino.png" alt="Puntos Dominó" />
 
 Una idea sencilla: una app para seguir los puntos en cualquier partido de dominó.
 

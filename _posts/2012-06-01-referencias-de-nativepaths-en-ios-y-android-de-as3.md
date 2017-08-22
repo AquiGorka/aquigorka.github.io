@@ -15,28 +15,40 @@ Sin explicar nada, quien necesite esto agradecerá que aqui está:
 **Android**
 
 ```AS3
-File.applicationDirectory.nativePath: (vacío)
-File.applicationStorageDirectory.nativePath: /data/data/air.[App ID]/[App name (sin espacios)]/Local Store
-File.documentsDirectory.nativePath: /mnt/sdcard
-File.userDirectory.nativePath: /mnt/sdcard
+File.applicationDirectory.nativePath
+// (vacío)
+File.applicationStorageDirectory.nativePath
+// /data/data/air.[App ID]/[App name (sin espacios)]/Local Store
+File.documentsDirectory.nativePath
+// /mnt/sdcard
+File.userDirectory.nativePath
+// /mnt/sdcard
 ```
 
 **iOS**
 
 ```AS3
-File.applicationDirectory.nativePath: /var/mobile/Applications/ [RANDOM CODE] /[Output file]
-File.applicationStorageDirectory.nativePath: /var/mobile/Applications/ [RANDOM CODE] /Library/Application Support/[App  ID]/Local Store
-File.documentsDirectory.nativePath: /var/mobile/Applications/ [RANDOM CODE] /Documents
-File.userDirectory.nativePath: /var/mobile/Applications/ [RANDOM CODE]
+File.applicationDirectory.nativePath
+// /var/mobile/Applications/[RANDOM CODE]/[Output file]
+File.applicationStorageDirectory.nativePath
+// /var/mobile/Applications/[RANDOM CODE]/Library/Application Support/[App  ID]/Local Store
+File.documentsDirectory.nativePath
+// /var/mobile/Applications/[RANDOM CODE]/Documents
+File.userDirectory.nativePath
+// /var/mobile/Applications/[RANDOM CODE]
 ```
 
 **Windows 7 (sólo de referencia)**
 
 ```AS3
-File.applicationDirectory.nativePath: C:\Users\[USER]\[PATH TO FILE]
-File.applicationStorageDirectory.nativePath: C:\Users\[USER]\AppData\Roaming\[App ID]\Local Store
-File.documentsDirectory.nativePath: C:\Users\[USER]\Documents
-File.userDirectory.nativePath: C:\Users\[USER]
+File.applicationDirectory.nativePath
+// C:\Users\[USER]\[PATH TO FILE]
+File.applicationStorageDirectory.nativePath
+// C:\Users\[USER]\AppData\Roaming\[App ID]\Local Store
+File.documentsDirectory.nativePath
+// C:\Users\[USER]\Documents
+File.userDirectory.nativePath
+// C:\Users\[USER]
 ```
 
 Referencia de Adobe: http://help.adobe.com/en_US/as3/dev/WS5b3ccc516d4fbf351e63e3d118666ade46-7fe4.html

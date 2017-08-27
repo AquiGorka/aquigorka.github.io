@@ -8,7 +8,7 @@ permalink: /2012/08/motivacion/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2012/08/motivation.pg" alt="Motivación" />
+<img style="margin: auto;" src="/public/img/2012/08/motivation.jpg" alt="Motivación" />
 
 > [..] invent a tool that will unleash choices [..]<br />
 Kevin Kelly – What technology wants

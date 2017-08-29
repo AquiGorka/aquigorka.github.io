@@ -10,11 +10,11 @@ categories:
 ---
 <img style="margin: auto;" src="/public/img/2017/08/pipelines.jpg" alt="Qué hay en el pipeline?" />
 
-He estado jugando much ultimamente con nuevas tecnologías: desde comunicación cliente-cliente con webrtc, pasando por mundos virtuales en web con webvr y webgl hasta brain control computing. COn esto me he divertido mucho también pensando en qué cosas nuevas se pueden intentar y cómo llevarlas a cabo. Sigo creyendo que con las tecnologías que se están/estamos desarrollando cada vez se "blurrean" más los límites de lo físico y lo digital/virtual.
+He estado jugando mucho ultimamente con nuevas tecnologías: desde comunicación cliente-cliente con webrtc, pasando por mundos virtuales en web con webvr y webgl hasta brain control computing. COn esto me he divertido mucho también pensando en qué cosas nuevas se pueden intentar y cómo llevarlas a cabo. Sigo creyendo que con las tecnologías que se están/estamos desarrollando cada vez se "blurrean" más los límites de lo físico y lo digital/virtual.
 
 Uno de mis principales motivadores tiene que ver con conseguir que el pensamiento de "luz encendida en el cuarto", genere que la luz que estaba apagada se encienda.
 
-¿Cómo se puede lograr esto?
+**¿Cómo se puede lograr esto?**
 
 Hay pasos a seguir y para algunos no contamos (aún) con las herramientas necesarias para construirlos, pero más o menos así:
 

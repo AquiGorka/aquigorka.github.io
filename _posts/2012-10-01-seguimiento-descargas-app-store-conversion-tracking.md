@@ -8,7 +8,7 @@ permalink: /2012/10/seguimiento-descargas-app-store-conversion-tracking/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2012/10/follow-up-analytics.jpg" alt="Follow up analytics" />
+<img style="margin: auto;" src="/public/img/2012/10/follow-up-analytics.png" alt="Follow up analytics" />
 
 Así que bueno, la historia del sueño del desarrollador de apps:
 

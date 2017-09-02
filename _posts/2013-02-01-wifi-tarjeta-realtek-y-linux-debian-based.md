@@ -1,7 +1,7 @@
 ---
 id: 20130201
 title: Wifi Tarjeta Realtek y Linux (Debian Based)
-date: 2012-06-03T11:27:07+00:00
+date: 2013-02-01T11:27:07+00:00
 author: Gorka
 layout: post
 permalink: /2013/02/wifi-tarjeta-realtek-y-linux-debian-based/

@@ -24,26 +24,19 @@ En resumidas cuentas (mis 2 centavos):
 - Abrir en folder. Yo lo puse en user home por si hay que volver a hacer esto con actualizaciones de sistema operativo.
 - apt-get install make (sólo por si lo no tienen, es para compilar).
 - Abrir terminal y moverse al nuevo folder.
-
-```sh
-sudo su
-make clean
-make
-make install
-reboot
-```
-
+- sudo su
+- make clean
+- make
+- make install
+- reboot
 - modprobe rtl8192se_pci (aquí intenté con FN + F8 que es por hardware activar mi wifi, no está de más mencionarlo)
 
 Espero ayude a quien tenga que ayudar.
 
-```
-Chipset : Realtek 8191SE
-Laptop : Toshiba A505-S6005
-Dirver : http://launchpadlibrarian.net/38201251/rtl8192se_linux_2.6.0014.0115.2010.tar.gz
-```
-
-Foro (ayuda MUY larga) : https://bugs.launchpad.net/ubuntu/+source/linux/+bug/401126?comments=all
+- Chipset : Realtek 8191SE
+- Laptop : Toshiba A505-S6005
+- Dirver : http://launchpadlibrarian.net/38201251/rtl8192se_linux_2.6.0014.0115.2010.tar.gz
+- Foro (ayuda MUY larga) : https://bugs.launchpad.net/ubuntu/+source/linux/+bug/401126?comments=all
 
 Saludos,<br />
 Gorka

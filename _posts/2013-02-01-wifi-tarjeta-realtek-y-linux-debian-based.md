@@ -22,14 +22,14 @@ En resumidas cuentas (mis 2 centavos):
 
  -Descargar archivo de driver (creo que está parchado por la gente del foro). Es un ‘tarball’ o .tar.gz.
 - Abrir en folder. Yo lo puse en user home por si hay que volver a hacer esto con actualizaciones de sistema operativo.
-- apt-get install make (sólo por si lo no tienen, es para compilar).
+- ```apt-get install make``` (sólo por si lo no tienen, es para compilar).
 - Abrir terminal y moverse al nuevo folder.
-- sudo su
-- make clean
-- make
-- make install
-- reboot
-- modprobe rtl8192se_pci (aquí intenté con FN + F8 que es por hardware activar mi wifi, no está de más mencionarlo)
+- ```sudo su```
+- ```make clean```
+- ```make```
+- ```make install```
+- ```reboot```
+- ```modprobe rtl8192se_pci``` (aquí intenté con FN + F8 que es por hardware activar mi wifi, no está de más mencionarlo)
 
 Espero ayude a quien tenga que ayudar.
 

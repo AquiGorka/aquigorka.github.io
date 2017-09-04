@@ -8,7 +8,7 @@ permalink: /2013/02/desarrollo-cross-platform-mobile-con-html-css-y-javascript/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2013/02/Phonegap-Training.png" alt="Build Diagram" />
+<img style="margin: auto;" src="/public/img/2013/02/phonegap-training.png" alt="Build Diagram" />
 
 Siguiendo la línea de desarrollo mobile he estado desarrollando en un nuevo framework: en lugar de usar Actionscript3 de flash usé un StageWebView y el desarrollo fue directo en HTML, CSS y Javascript (con la ventaja que Safari Mobile – el engine del webview – puede entender la mayoría de tags de HTML5 y CSS3 – incluyendo transitions y transform).
 

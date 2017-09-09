@@ -26,13 +26,17 @@ Con esta herramienta puedo encriptar/decriptar (cifrar/descifrar) palabras o fra
 
 ### ¿Cómo funciona?
 
-`echo 'Esta sería la contraseña' | openssl enc -base64 -e -aes-256-cbc -pass pass:esta_es_la_clave_cifradora_descifradora`
+```
+echo 'Esta sería la contraseña' | openssl enc -base64 -e -aes-256-cbc -pass pass:esta_es_la_clave_cifradora_descifradora
+```
 
 Y esto nos da: `U2FsdGVkX1/l9mGydcS6YSQHL7Mp564njMvaBpJZnEv/IR3mfg2Ojh3NMF/2GYEr`
 
 Genial, y luego? Pues luego la podemos descifrar así:
 
-`echo U2FsdGVkX1/l9mGydcS6YSQHL7Mp564njMvaBpJZnEv/IR3mfg2Ojh3NMF/2GYEr | openssl enc -aes-256-cbc -d -a`
+```
+echo U2FsdGVkX1/l9mGydcS6YSQHL7Mp564njMvaBpJZnEv/IR3mfg2Ojh3NMF/2GYEr | openssl enc -aes-256-cbc -d -a
+```
 
 Y ahí nos pregunta por la clave (también se le podríamos dar como argumento en la forma `-pass pass:esta_es_la_clave_cifradora_descifradora`).
 
@@ -43,18 +47,21 @@ Y **kapow!**: `Esta sería la contraseña`
 
 - Cifrar
 
-`openssl aes-256-cbc -a -salt -in 'ruta_y_nombre_al_archivo_a_encriptar' -out 'ruta_y_nombre_al_archivo_encriptado' -pass pass:esta_seria_la_clave`
+```
+openssl aes-256-cbc -a -salt -in 'ruta_y_nombre_al_archivo_a_encriptar' -out 'ruta_y_nombre_al_archivo_encriptado' -pass pass:esta_seria_la_clave
+```
 
 - Descifrar
 
-`openssl aes-256-cbc -d -a -in 'ruta_y_nombre_al_archivo_encriptado' -out 'ruta_y_nombre_al_archivo_desencriptado'`
-
+```
+openssl aes-256-cbc -d -a -in 'ruta_y_nombre_al_archivo_encriptado' -out 'ruta_y_nombre_al_archivo_desencriptado'
+```
 
 Así que bueno, aprendiendo de buenas prácticas y nuevas herramientas.
 
 Saludos,
 Gorka
 
-PD - la imagen es de un tipo de cifrado conocido como __Caesar Cipher__ (https://en.wikipedia.org/wiki/Caesar_cipher)
+PD - la imagen es de un tipo de cifrado conocido como [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 
 PD2 - buscando imágenes de `cipher disk` para este post como que me parace que el zodiaco, calendario azteca y las monedas se parecen mucho a este tipo de discos - paranoia lo mío?

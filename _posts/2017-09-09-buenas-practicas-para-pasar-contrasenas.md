@@ -12,7 +12,7 @@ categories:
 
 > Only the paranoid will survive and inherit the earth
 
-##openssl
+## openssl
 
 Hablemos primero de lo que pasó: necesité que me mandaran una contraseña, la manera "insegura" (y que creo todos hemos tipicamente usado) es pasarla por email o chat (a veces en partes para hacerlo más seguro, a veces no).
 

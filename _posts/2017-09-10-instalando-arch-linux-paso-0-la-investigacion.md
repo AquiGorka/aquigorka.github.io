@@ -1,7 +1,7 @@
 ---
 id: 20170910
 title: "Instalando arch linux: Paso #0 la investigación"
-date: 2012-09-10T11:27:07+00:00
+date: 2017-09-10T11:27:07+00:00
 author: Gorka
 layout: post
 permalink: /2017/09/instalando-arch-linux-paso-0-la-investigacion/

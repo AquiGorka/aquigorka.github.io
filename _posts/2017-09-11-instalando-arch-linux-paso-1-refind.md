@@ -1,6 +1,6 @@
 ---
 id: 20170911
-title: Instalando arch linux: Paso #1 rEFInd
+title: "Instalando arch linux: Paso #1 rEFInd"
 date: 2017-09-11T11:27:07+00:00
 author: Gorka
 layout: post
@@ -8,7 +8,7 @@ permalink: /2017/09/instalando-arch-linux-paso-1-refind/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2017/09/refind.jpg" alt="rEFInd" />
+<img style="margin: auto;" src="/public/img/2017/09/refind.png" alt="rEFInd" />
 
 Para poder hacer el dual boot se necesita poder escoger qué sistema operativo se va a usar, para esto entra [rEFInd](http://www.rodsbooks.com/refind/).
 

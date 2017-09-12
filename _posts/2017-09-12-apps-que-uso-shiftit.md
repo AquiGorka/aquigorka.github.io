@@ -1,6 +1,6 @@
 ---
 id: 20170912
-title: "Apps que uso: ShifIt"
+title: "Apps que uso: ShiftIt"
 date: 2017-09-12T11:27:07+00:00
 author: Gorka
 layout: post
@@ -8,7 +8,7 @@ permalink: /2017/09/apps-que-uso-shiftit/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2017/09/shiftit.png" alt="Shiftit" />
+<img style="margin: auto;" src="/public/img/2017/09/shiftit.png" alt="ShiftIt" />
 
 Dado que ultimamente he estado hablando mucho de herramientas/apps/programas más técnicos, esta vez decidí empezar a describir las apps (que vale la pena hacerlo) que ayudan con mi productividad todos los días.
 

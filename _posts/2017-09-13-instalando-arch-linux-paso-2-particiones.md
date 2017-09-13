@@ -1,7 +1,7 @@
 ---
 id: 20170913
 title: "Instalando arch linux: Paso #2 particiones"
-date: 2017-09-11T11:27:07+00:00
+date: 2017-09-13T11:27:07+00:00
 author: Gorka
 layout: post
 permalink: /2017/09/instalando-arch-linux-paso-2-particiones/

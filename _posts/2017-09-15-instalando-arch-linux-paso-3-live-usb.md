@@ -10,7 +10,7 @@ categories:
 ---
 <img style="margin: auto;" src="/public/img/2017/09/antergos-live-usb-drive.jpg" alt="Antergos live usb" />
 
-Aparentemente este fue muy fácil, pero aún no lo pude comprobar y ya me ha pasado antes que al tratar de hacer un live usb con alguna distro de linux en Mac no funciona. Esta vez cambié al forma de hacerlo con las instrucciones de esta web (https://wiki.archlinux.org/index.php/USB_flash_installation_media#BIOS_and_UEFI_bootable_USB) que acá explico:
+Aparentemente este fue muy fácil, pero aún no lo pude comprobar y ya me ha pasado antes que al tratar de hacer un live usb con alguna distro de linux en Mac no funciona. Esta vez cambié al forma de hacerlo con las instrucciones de esta [web](https://wiki.archlinux.org/index.php/USB_flash_installation_media#BIOS_and_UEFI_bootable_USB), que acá explico:
 
 - En una terminal escribir `diskutil list` para ver la lista de dispositivos.
 - Descrifrar cuál es el usb (sí, el usb tiene que estar conectado), normalmente tiene estas características `/dev/disk2 (external, physical)`.

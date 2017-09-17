@@ -15,6 +15,10 @@ categories:
 
 Hace muy poco descargué esta app por primera vez. Aún no empiezo a usar todas las herramientas con las que cuenta pero ya se hizo parte de mi uso diario. En realidad, la app que ya usaba todos los dias era el _Spotlight_ - sirve para buscar apps, usar de calculadora y seguramente más cosas (pero yo no las he necesitado aún).
 
+Para los que no lo saben, la manera de llamar esta app y la nativa de Mac es con: `COMMAND + SPACEBAR`
+
+Una cosa que creo viene bien es que _Alfred_ deja lo último que buscaste en la siguiente ocasión que lo llamas - es cómodo cuando lo usas varias veces seguido en el mismo rato.
+
 Así que fue muy fácil integrar _Alfred_ pues solo cambié mi uso de la otra app por esta. En cuanto tenga tiempo voy a entrar a ver como es el tema de los workflows y ver para que sirven, y ahí de vuelta contaré.
 
 Saludos,<br />

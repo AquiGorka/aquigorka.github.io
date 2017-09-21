@@ -8,7 +8,7 @@ permalink: /2017/09/ideas-game-night/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2017/09/game-night" alt="Game Night" />
+<img style="margin: auto;" src="/public/img/2017/09/game-night.jpg" alt="Game Night" />
 
 Entre todas las ideas que estoy desarrollando se me ocurrió que podía usar el smartphone para controlar juegos (esta es la idea original, viene desde hace años - desde poco después que terminé el viaje de TrotaMexico) y poco a poco fui encontrando como hacer esto.
 

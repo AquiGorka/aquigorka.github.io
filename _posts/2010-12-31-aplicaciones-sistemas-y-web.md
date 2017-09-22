@@ -8,7 +8,7 @@ permalink: /2010/12/aplicaciones-sistemas-y-web/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2010/12/apps.png" alt="Apps" />
+<img style="margin: auto;" src="/public/img/2010/12/apps.png" alt="Apps" />
 
 Como parte del desarrollo de aplicaciones, sistemas, páginas, etc. que funcionan en Internet una de las principales partes es escoger un sistema de hosting.
 

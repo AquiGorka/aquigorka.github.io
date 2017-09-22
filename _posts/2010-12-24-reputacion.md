@@ -8,7 +8,7 @@ permalink: /2010/12/reputacion/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2010/12/reputacion.jpg" alt="Reputación" />
+<img style="margin: auto;" src="/public/img/2010/12/reputacion.jpg" alt="Reputación" />
 
 Hace unos días que me quiero poner al corriente con todas las TED Talks que tengo en mi itunes (115+) y pues ando más o menos forzándome a ver unas 5 diarias (así terminaré a fin de enero… pfffff… hahaha) y entre lo que ví estos días me encontré con esta joya:
 

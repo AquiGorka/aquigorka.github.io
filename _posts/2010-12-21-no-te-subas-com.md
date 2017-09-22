@@ -8,7 +8,7 @@ permalink: /2010/12/no-te-subas-com/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2010/12/no-te-subas.jpg" alt="No te subas" />
+<img style="margin: auto;" src="/public/img/2010/12/no-te-subas.jpg" alt="No te subas" />
 
 Estoy pensando seriamente en desarrollar un proyecto con el cual cuando vas a tomar un taxi puedes buscar desde tu iphone/ipod/blackberry/(hasta laptop) con la placa del taxi que tal es, si da buen servicio, si tiene quejas, en general, que tal maneja.
 

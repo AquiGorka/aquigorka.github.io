@@ -10,7 +10,7 @@ categories:
 ---
 <img style="margin: auto;" src="/public/img/2017/09/no-iris.jpg" alt="No iris" />
 
-Me parece raro tener que escribir un post como este pero la verdad es que todo el context alrededor de este framewrok está muy raro/sketchy.
+Me parece raro tener que escribir un post como este pero la verdad es que todo el contexto alrededor de este framewrok está muy raro/sketchy.
 
 Cuento un poco de lo que he visto y luego lo que me pasó:
 
@@ -28,7 +28,7 @@ Eso fue hace unos meses, hoy de repente veo que el autor original tiene de vuelt
 
 Así que no tengo ni idea que pasó, que pasa y como va a seguir y que va a seguir pasando, así que mi recomendación (al punto que estoy haciendo un post acerca del tema) es:
 
-**No usar iris en Go**
+**No usar iris**
 
 Saludos,<br />
 Gorka

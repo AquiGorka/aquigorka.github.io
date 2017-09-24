@@ -18,7 +18,7 @@ Ya que está instalado rEFInd reinicié la computadora, sin saber bien qué opci
 
 Fácil y lógico seleccioné la primera opción y con esto ya directamente cargó Antergos.
 
-La decisión ahí fue si isntalar o probar (y como estamos probando, también fue fácil):
+La decisión ahí fue si instalar o probar (y como estamos probando, también fue fácil):
 
 <img style="margin: auto;" src="/public/img/2017/09/antergos-live-usb-3.jpg" alt="Antergos live usb Try" />
 

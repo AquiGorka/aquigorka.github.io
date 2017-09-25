@@ -8,7 +8,7 @@ permalink: /2011/01/seguridad-en-desarrollos-en-internet/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2011/01/seguridad.jpg" alt="Seguridad" />
+<img style="margin: auto;" src="/public/img/2011/01/seguridad.jpg" alt="Seguridad" />
 
 ¿Qué ondas con esto? El enfoque que le voy a dar es el siguiente:
 

@@ -8,7 +8,7 @@ permalink: /2011/01/mashup-services/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2011/01/mashup.png" alt="Mashup" />
+<img style="margin: auto;" src="/public/img/2011/01/mashup.png" alt="Mashup" />
 
 >Un “mashup” (Wikipedia: web application hybrid) es una mezcla de sistemas y datos de sistemas y aplicaciones que reutilizan los datos para revisualizarlos y aprovecharlos de una manera “diferente” a lo que originalmente (raw) se habían pensado individualmente (los mashups acostumbran tener varias fuentes, pero no es oblitgatorio).
 

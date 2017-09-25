@@ -8,7 +8,7 @@ permalink: /2011/01/crowd-source-socialism/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2011/01/crowd-source-socialism.jpg" alt="Crow source socialism" />
+<img style="margin: auto;" src="/public/img/2011/01/crowd-source-socialism.jpg" alt="Crowd source socialism" />
 
 I believe in crowd source because there is no “one man superhero” with all the answers, questions or solutions.
 

@@ -8,7 +8,7 @@ permalink: /2011/01/cuanto-vale-tu-click/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2011/01/cuanto-vale-tu-click.jpg" alt="Tu click" />
+<img style="margin: auto;" src="/public/img/2011/01/cuanto-vale-tu-click.jpg" alt="Tu click" />
 
 Desde hace ya tiempo he leído y analizado un par de ideas que tienen que ver con como monetarizar contenido y visitas a páginas web, hay muchas opciones (algunas muy buenas, otras fatales) y muchas ideas en el aire y una en la que me puse a pensar hace poco es la típica idea que por crear contenido que se consume hay que pagarle al creador. De hecho creo que todos los modelos de negocio se basan en esa idea: yo creo algo, ese algo se comercializa, se distribuye y a mí me pagan por mi algo (y bueno, no se olviden de todas las infladas de precio que se reciben en el camino para pagar a todos los intermediarios).
 

@@ -10,9 +10,9 @@ categories:
 ---
 <p>
   <img
-    src="/wp-content/uploads/2015/01/Welcome-to-the-future-300x218.jpg"
+    src="/public/img/2015/01/Welcome-to-the-future-300x218.jpg"
     alt="Welcome to the future"
-    srcset="/wp-content/uploads/2015/01/Welcome-to-the-future-300x218.jpg 300w, /wp-content/uploads/2015/01/Welcome-to-the-future-1024x744.jpg 1024w, /wp-content/uploads/2015/01/Welcome-to-the-future.jpg 1480w"
+    srcset="/public/img/2015/01/Welcome-to-the-future-300x218.jpg 300w, /public/img/2015/01/Welcome-to-the-future-1024x744.jpg 1024w, /public/img/2015/01/Welcome-to-the-future.jpg 1480w"
     sizes="100vw" />
 </p>
 

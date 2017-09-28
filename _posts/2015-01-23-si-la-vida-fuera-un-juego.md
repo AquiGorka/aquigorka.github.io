@@ -8,7 +8,7 @@ permalink: /2015/01/si-la-vida-fuera-un-juego/
 categories:
   - Ideas
 ---
-<img src="/wp-content/uploads/2015/01/life-imitates-are-far-more-than-art-imitates-life-300x225.jpg" alt="Life imitates are far more than art imitates life" srcset="/wp-content/uploads/2015/01/life-imitates-are-far-more-than-art-imitates-life-300x225.jpg 300w, /wp-content/uploads/2015/01/life-imitates-are-far-more-than-art-imitates-life.jpg 500w" sizes=" 100vw" />
+<img src="/public/img/2015/01/life-imitates-are-far-more-than-art-imitates-life-300x225.jpg" alt="Life imitates are far more than art imitates life" srcset="/public/img/2015/01/life-imitates-are-far-more-than-art-imitates-life-300x225.jpg 300w, /public/img/2015/01/life-imitates-are-far-more-than-art-imitates-life.jpg 500w" sizes=" 100vw" />
 
 <p style="text-align: center;">
   <b><a title="Quotes for Game Developers" href="http://www.gamasutra.com/view/news/234346/10_quotes_every_game_developer_should_remember.php" target="_blank">Players in general want a game that rewards them for thinking</a></b>

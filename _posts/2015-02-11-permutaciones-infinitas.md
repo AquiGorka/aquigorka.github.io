@@ -9,7 +9,7 @@ categories:
   - Ideas
 ---
 <p> 
-  <img src="/wp-content/uploads/2015/02/universe-300x148.jpg" alt="Universe" srcset="/wp-content/uploads/2015/02/universe-300x148.jpg 300w, /wp-content/uploads/2015/02/universe-1024x506.jpg 1024w, /wp-content/uploads/2015/02/universe.jpg 1280w" sizes="100vw" />
+  <img src="/public/img/2015/02/universe-300x148.jpg" alt="Universe" srcset="/public/img/2015/02/universe-300x148.jpg 300w, /public/img/2015/02/universe-1024x506.jpg 1024w, /public/img/2015/02/universe.jpg 1280w" sizes="100vw" />
 </p>
 
 <p style="text-align: right; font-style: italic;">

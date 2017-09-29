@@ -9,7 +9,7 @@ categories:
   - Ideas
 ---
 <p>
-  <img src="/wp-content/uploads/2015/02/Inception-300x126.jpg" alt="Inception" srcset="/wp-content/uploads/2015/02/Inception-300x126.jpg 300w, /wp-content/uploads/2015/02/Inception-1024x429.jpg 1024w" sizes="100vw" />
+  <img src="/public/img/2015/02/Inception-300x126.jpg" alt="Inception" srcset="/public/img/2015/02/Inception-300x126.jpg 300w, /public/img/2015/02/Inception-1024x429.jpg 1024w" sizes="100vw" />
 </p>
 
 <p style="text-align: center;">

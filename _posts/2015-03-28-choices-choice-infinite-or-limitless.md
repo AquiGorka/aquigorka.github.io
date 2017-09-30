@@ -9,7 +9,7 @@ categories:
   - Ideas
 ---
 <p>
-  <img src="/wp-content/uploads/2015/03/no-limits-road-300x205.jpg" alt="no-limits-road" srcset="/wp-content/uploads/2015/03/no-limits-road-300x205.jpg 300w, /wp-content/uploads/2015/03/no-limits-road.jpg 500w" sizes="100vw" />
+  <img src="/public/img/2015/03/no-limits-road-300x205.jpg" alt="no-limits-road" srcset="/public/img/2015/03/no-limits-road-300x205.jpg 300w, /public/img/2015/03/no-limits-road.jpg 500w" sizes="100vw" />
 </p>
 
 > <p style="text-align: right; font-style: italic;">

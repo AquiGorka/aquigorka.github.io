@@ -8,7 +8,7 @@ permalink: /2015/05/value-added-social-network/
 categories:
   - Ideas
 ---
-<img src="/wp-content/uploads/2015/05/value-added-social-network-300x225.jpg" alt="value-added-social-network" srcset="/wp-content/uploads/2015/05/value-added-social-network-300x225.jpg 300w, /wp-content/uploads/2015/05/value-added-social-network-1024x768.jpg 1024w, /wp-content/uploads/2015/05/value-added-social-network.jpg 1600w" sizes="100vw" />
+<img src="/public/img/2015/05/value-added-social-network-300x225.jpg" alt="value-added-social-network" srcset="/public/img/2015/05/value-added-social-network-300x225.jpg 300w, /public/img/2015/05/value-added-social-network-1024x768.jpg 1024w, /public/img/2015/05/value-added-social-network.jpg 1600w" sizes="100vw" />
 
 <blockquote>
   <p style="text-align: right; font-style: italic;">

@@ -9,7 +9,7 @@ categories:
   - Ideas
 ---
 <p>
-  <img src="/wp-content/uploads/2015/05/OK-Computer.jpg" alt="OK - Computer" srcset="/wp-content/uploads/2015/05/OK-Computer.jpg 736w, /wp-content/uploads/2015/05/OK-Computer-300x148.jpg 300w" sizes="100vw" />
+  <img src="/public/img/2015/05/OK-Computer.jpg" alt="OK - Computer" srcset="/public/img/2015/05/OK-Computer.jpg 736w, /public/img/2015/05/OK-Computer-300x148.jpg 300w" sizes="100vw" />
 </p>
 
 > <p style="text-align: right; font-style: italic;">

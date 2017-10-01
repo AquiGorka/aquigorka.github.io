@@ -9,7 +9,7 @@ categories:
   - Ideas
 ---
 <p>
-  <img src="/wp-content/uploads/2015/05/seed-300x225.jpg" alt="seed" srcset="/wp-content/uploads/2015/05/seed-300x225.jpg 300w, /wp-content/uploads/2015/05/seed.jpg 380w" sizes="100vw" />
+  <img src="/public/img/2015/05/seed-300x225.jpg" alt="seed" srcset="/public/img/2015/05/seed-300x225.jpg 300w, /public/img/2015/05/seed.jpg 380w" sizes="100vw" />
 </p>
 
 > <p style="text-align: right; font-style: italic;">

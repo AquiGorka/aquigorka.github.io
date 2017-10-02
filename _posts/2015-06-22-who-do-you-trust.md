@@ -9,7 +9,7 @@ categories:
   - Ideas
 ---
 <p>
-  <img src="/wp-content/uploads/2015/06/nous21-300x271.jpg" alt="nous" srcset="/wp-content/uploads/2015/06/nous21-300x271.jpg 300w, /wp-content/uploads/2015/06/nous21.jpg 600w" sizes="100v" />
+  <img src="/public/img/2015/06/nous21-300x271.jpg" alt="nous" srcset="/public/img/2015/06/nous21-300x271.jpg 300w, /public/img/2015/06/nous21.jpg 600w" sizes="100v" />
 </p>
 
 > <p style="text-align: right; font-style: italic;">

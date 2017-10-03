@@ -8,7 +8,7 @@ permalink: /2015/07/follow-your-dream/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg" alt="dreamcatcher" srcset="/wp-content/uploads/2015/07/dreamcatcher-190x300.jpg 190w, /wp-content/uploads/2015/07/dreamcatcher.jpg 434w" sizes="30vw" />
+<img style="margin: auto;" src="/public/img/2015/07/dreamcatcher-190x300.jpg" alt="dreamcatcher" srcset="/public/img/2015/07/dreamcatcher-190x300.jpg 190w, /public/img/2015/07/dreamcatcher.jpg 434w" sizes="30vw" />
 
 > <p style="text-align: right; font-style: italic;">
 >   "To see the world, things dangerous to come to,<br /> to see behind walls, to draw closer,<br /> to find each other and to feel.<br /> That is the Purpose of LIFE.&#8221;<br /> The secret life of Walter Mitty"

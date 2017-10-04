@@ -8,7 +8,7 @@ permalink: /2015/08/intuicion/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2015/08/intuition-300x300.jpg" alt="intuition" srcset="/wp-content/uploads/2015/08/intuition-300x300.jpg 300w, /wp-content/uploads/2015/08/intuition-150x150.jpg 150w, /wp-content/uploads/2015/08/intuition.jpg 500w" sizes="40vw" />
+<img style="margin: auto;" src="/public/img/2015/08/intuition-300x300.jpg" alt="intuition" srcset="/public/img/2015/08/intuition-300x300.jpg 300w, /public/img/2015/08/intuition-150x150.jpg 150w, /public/img/2015/08/intuition.jpg 500w" sizes="40vw" />
 
 ><p style="text-align: right; font-style: italic;">
 >  Intuition: the ability to understand something instinctively, without the need for conscious reasoning.

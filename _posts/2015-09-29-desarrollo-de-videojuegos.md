@@ -9,7 +9,7 @@ categories:
   - Ideas
 ---
 <p>
-  <img src="/wp-content/uploads/2015/09/can-you-hear-me-now-289571-300x285.png" alt="can-you-hear-me-now-289571" srcset="/wp-content/uploads/2015/09/can-you-hear-me-now-289571-300x285.png 300w, /wp-content/uploads/2015/09/can-you-hear-me-now-289571.png 400w" sizes="100vw" />
+  <img src="/public/img/2015/09/can-you-hear-me-now-289571-300x285.png" alt="can-you-hear-me-now-289571" srcset="/public/img/2015/09/can-you-hear-me-now-289571-300x285.png 300w, /public/img/2015/09/can-you-hear-me-now-289571.png 400w" sizes="100vw" />
 </p>
 
 > <p style="text-align: right; font-style: italic;">

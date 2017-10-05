@@ -8,7 +8,7 @@ permalink: /2015/09/right-there-and-then/
 categories:
   - Ideas
 ---
-<img src="/wp-content/uploads/2015/09/hitting-the-target-300x300.jpg" alt="missile hit a human that carry a target" srcset="/wp-content/uploads/2015/09/hitting-the-target-300x300.jpg 300w, /wp-content/uploads/2015/09/hitting-the-target-150x150.jpg 150w, /wp-content/uploads/2015/09/hitting-the-target-1024x1024.jpg 1024w" sizes="100vw" />
+<img src="/public/img/2015/09/hitting-the-target-300x300.jpg" alt="missile hit a human that carry a target" srcset="/public/img/2015/09/hitting-the-target-300x300.jpg 300w, /public/img/2015/09/hitting-the-target-150x150.jpg 150w, /public/img/2015/09/hitting-the-target-1024x1024.jpg 1024w" sizes="100vw" />
 
 > <p style="text-align: right; font-style: italic;">
 >   Si quiero sentir la pasión y satisfacción de seguir mi sueño, <b>tengo que seguirlo con mayor precisión,</b> no solo seguir el rubro de lo que quiero, sino también el tipo de cosa que quiero producir, el tipo de publico al que quiero apuntar, el tipo de valores que quiero sostener, el tipo de experiencia que quiero vivir lo mas específicamente posible.<br /> <a href="http://coachibarra.com/logros/lo-que-aprendi-de-mis-fracasos-como-desarrollador-independiente-2/" target="_blank">Christian Ibarra - Lo que aprendí de mis errores 2</a>

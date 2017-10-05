@@ -8,7 +8,7 @@ permalink: /2015/09/the-wheels-are-in-motion/
 categories:
   - Ideas
 ---
-<img style="margin: auto;"  src="/wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy-300x225.jpg" alt="gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy" srcset="/wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy-300x225.jpg 300w, /wp-content/uploads/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy.jpg 1024w" sizes="100vw" />
+<img style="margin: auto;"  src="/public/img/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy-300x225.jpg" alt="gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy" srcset="/public/img/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy-300x225.jpg 300w, /public/img/2015/09/gears_and_cogs_wallpaper_by_expiredsunshine-d6dn0vy.jpg 1024w" sizes="100vw" />
 
 > <div style="text-align: right; font-style: italic;">
 >   To teach how to live without certainty, and yet without being paralyzed by hesitation, is perhaps the chief thing that philosophy, in our age, can still do for those who study it.<br />Bertrand Russell, A History of Western Philosophy

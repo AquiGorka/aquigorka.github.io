@@ -8,7 +8,7 @@ permalink: /2015/11/zapatero-a-sus-zapatos/
 categories:
   - Ideas
 ---
-<img src="/wp-content/uploads/2015/11/ventilador-300x169.jpg" alt="ventilador" srcset="/wp-content/uploads/2015/11/ventilador-300x169.jpg 300w, /wp-content/uploads/2015/11/ventilador.jpg 640w" sizes="100vw" />
+<img src="/public/img/2015/11/ventilador-300x169.jpg" alt="ventilador" srcset="/public/img/2015/11/ventilador-300x169.jpg 300w, /public/img/2015/11/ventilador.jpg 640w" sizes="100vw" />
 
 ><p style="text-align: right; font-style: italic;">
 >  El mayor contraste del surrealismo ha sido siempre la línea entre los sueños y la realidad, y la unión entre lo consciente y lo inconsciente.<br />@ <a href="http://thecreatorsproject.vice.com/es_mx/blog/un-videojuego-para-vivir-los-mundos-de-dali-magritte-y-escher" target="_blank">Video juego de sueños</a>

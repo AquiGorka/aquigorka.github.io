@@ -8,7 +8,7 @@ permalink: /2015/12/so-long-and-thanks-for-all-the-fish/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c-300x265.jpg" alt="6a00d8341bf7f753ef0120a6340fc8970c" srcset="/wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c-300x265.jpg 300w, /wp-content/uploads/2015/12/6a00d8341bf7f753ef0120a6340fc8970c.jpg 315w" sizes="100vw" />
+<img style="margin: auto;" src="/public/img/2015/12/6a00d8341bf7f753ef0120a6340fc8970c-300x265.jpg" alt="6a00d8341bf7f753ef0120a6340fc8970c" srcset="/public/img/2015/12/6a00d8341bf7f753ef0120a6340fc8970c-300x265.jpg 300w, /public/img/2015/12/6a00d8341bf7f753ef0120a6340fc8970c.jpg 315w" sizes="100vw" />
 
 > <p style="text-align: right; font-style: italic;">
 >   2015. Un año divertido. Hubo muchas cosas.<br />Gorka

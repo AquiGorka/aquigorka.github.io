@@ -8,7 +8,7 @@ permalink: /2017/10/instalando-arch-linux-paso-5-internet-en-el-live-usb/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2017/10/-wifi-sleep.gif" alt="Antergos live usb + Internet" />
+<img style="margin: auto;" src="/public/img/2017/10/wifi-sleep.gif" alt="Antergos live usb + Internet" />
 
 Siguiendo con todo esta fiesta ahora toca hacer que la Macbook Air tenga Internet, cosa que no es trivial ya que el live usb de Antergos no tiene los programas para usar el WiFi de la computadora (por que? supongo que no es trivial el tema de drivers y no es 1 solo programa entonces es más fácil no incluirlos y que cada quien se encargue).
 

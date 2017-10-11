@@ -14,13 +14,13 @@ categories:
 
 Muchas cosas. Y entre ellas que hagas click en instalar después de _creer_ que lo configurado está bien y que, al terminar la computadora pida reiniciar y te encuentres con una pantalla como la de arriba.
 
-¿Qué diablos se hace con algo así?
+**¿Qué diablos se hace con algo así?**
 
 Google. Más Google. Mucho más Google.
 
 Y aún así, la respuesta no existe. La respuesta hay que encontrarla.
 
-Esste era el error original:
+Este era el error original:
 
 ```
 ERROR: device 'UUID=xxx' not found. Skipping fsck
@@ -29,7 +29,9 @@ You are bing dropped into an emergency shell
 sh: can't access tty; job control turned off
 ```
 
-Y desde el shell de emergencia poco pude hacer/investigar/aprender. Esta [referencia](https://unix.stackexchange.com/questions/364439/how-to-manually-boot-arch-linux-from-preboot-emergency-shell) proponía hacer esto:
+Y desde el shell de emergencia poco pude hacer/investigar/aprender.
+
+Esta [referencia](https://unix.stackexchange.com/questions/364439/how-to-manually-boot-arch-linux-from-preboot-emergency-shell) proponía hacer esto:
 
 ```
 # emergency shell
@@ -37,9 +39,9 @@ mount /dev/sda /new_root
 exit
 ```
 
-Nada.
+**Nada.**
 
-Pero antes de llegar al shell de emergencia la computadora pasaba por `Grub` y podía detener el boot inicial y desde ahí mismo cambiar/configurar ese primer proceso:
+Pero antes de llegar al shell de emergencia la computadora pasaba por `Grub` y podía ver que había por ahí: 
 
 ```
 ls
@@ -50,20 +52,29 @@ ls (hd1,4)/
 lost+found boot var etc proc sys dev run tmp usr bin home lib lib64 mnt opt root sbin srv
 ```
 
-Nada.
+Traté de detener el boot inicial y desde ahí mismo cambiar/configurar ese primer proceso:
+
+```
+#grub prompt
+set root=(hdX)
+linux /arch/boot/vmlinuz root=/dev/sdX
+```
+
+**Nada.**
 
 Buscando, viendo y tocando, no logré nada, decidí tratar de iniciar la compu de vuelta con el usb - no iba a pasar así como así. Traté de iniciar de esta manera:
 
 ```
-#grub prompt
-set root=(hd0) # este era el usb
-linux /arch/boot/vmlinuz root=/dev/sda
+set root=(hdX)
+chainloader +1
 ```
+
+**Nada.**
 
 En un momento detuve el boot inicial con el usb en la computadora y algo se vio diferente o algo se me ocurrió, y encontré la solución:
 
 ```
-set root=(hd0,2) # aquí en el usb estaba la partición efi
+set root=(hdX,Y) # aquí en Y en el usb estaba la partición efi
 chainloader /efi/boot/loader.efi
 ```
 

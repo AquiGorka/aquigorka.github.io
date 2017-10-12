@@ -8,7 +8,7 @@ permalink: /2017/04/comunicacion/
 categories:
   - Ideas
 ---
-<img src="/wp-content/uploads/2017/04/conway.png" alt="" srcset="/wp-content/uploads/2017/04/conway.png 993w, /wp-content/uploads/2017/04/conway-300x98.png 300w, /wp-content/uploads/2017/04/conway-768x250.png 768w" sizes="100vw" />
+<img src="/public/img/2017/04/conway.png" alt="" srcset="/public/img/2017/04/conway.png 993w, /public/img/2017/04/conway-300x98.png 300w, /public/img/2017/04/conway-768x250.png 768w" sizes="100vw" />
 
 > <p style="text-align: right; font-style: italic;">
 >   La calidad de los equipos se puede medir por la calidad de sus conversaciones.

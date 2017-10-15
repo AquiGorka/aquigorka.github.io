@@ -8,7 +8,7 @@ permalink: /2017/06/hugo-vs-jekyll/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2017/06/static.jpg" alt="Static site generators" />
+<img style="margin: auto;" src="/public/img/2017/06/static.jpg" alt="Static site generators" />
 
 > <p style="text-align: right; font-style: italic;">Managing software becomes central to the success of any businesses</p>
 

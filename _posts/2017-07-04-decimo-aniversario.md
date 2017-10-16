@@ -8,7 +8,7 @@ permalink: /2017/07/decimo-aniversario/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/wp-content/uploads/2017/07/important-dates.jpg" alt="Important Dates" />
+<img style="margin: auto;" src="/public/img/2017/07/important-dates.jpg" alt="Important Dates" />
 
 > <p style="text-align: right; font-style: italic;">Todo lo que ves a tu alrededor fue contruido por hombres.</p>
 

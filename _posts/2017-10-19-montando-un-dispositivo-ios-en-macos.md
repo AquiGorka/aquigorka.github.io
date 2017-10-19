@@ -36,7 +36,9 @@ Cuando terminen de usar el dispositivo:
 5. `rm -rf ios-device`
 
 
-## Posible error: `ifuse failed to connect to lockdownd service on the device`
+### Posible error
+
+`ifuse failed to connect to lockdownd service on the device`
 
 Entrar [aquí](https://gist.github.com/samrocketman/70dff6ebb18004fc37dc5e33c259a0fc#gistcomment-2140745) para resolver.
 

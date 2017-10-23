@@ -10,7 +10,7 @@ categories:
 ---
 <img style="margin: auto;" src="/public/img/2017/10/ligthshot.png" alt="LightShot" />
 
->The fastest way to take a customizable screenshot
+>The fastest way to take a customizable screenshot<br />
 >[LightShot](https://app.prntscr.com/en/index.html)
 
 Hace rato que vengo usando esta app, la descubrí trabajando con una computadora Windows - en Mac usaba el screen capture nativo. Y me gustí mucho los extras que ofrece.

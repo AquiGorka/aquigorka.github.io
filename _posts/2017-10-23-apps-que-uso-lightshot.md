@@ -1,6 +1,6 @@
 ---
 id: 20171023
-title: "Apps que uso: LighShot"
+title: "Apps que uso: LightShot"
 date: 2017-10-23T11:27:07+00:00
 author: Gorka
 layout: post
@@ -8,10 +8,10 @@ permalink: /2017/10/apps-que-uso-lightshot/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2017/10/lightshot.png" alt="LightShot" />
+<img style="margin: auto;" src="/public/img/2017/10/ligthshot.png" alt="LightShot" />
 
 >The fastest way to take a customizable screenshot
->[LighShot](https://app.prntscr.com/en/index.html)
+>[LightShot](https://app.prntscr.com/en/index.html)
 
 Hace rato que vengo usando esta app, la descubrí trabajando con una computadora Windows - en Mac usaba el screen capture nativo. Y me gustí mucho los extras que ofrece.
 

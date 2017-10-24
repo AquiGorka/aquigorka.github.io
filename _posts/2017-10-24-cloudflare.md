@@ -14,29 +14,29 @@ categories:
 
 Una opción que estoy por probar es la empresa [Cloudflare](https://www.cloudflare.com/). Los pasos a seguir en el setup son bastante sencillos:
 
-## Crear una cuenta
+1.- **Crear una cuenta**
 
-## Scan
+2.- **Scan**
 
 Hay que definir el website que se va a usar y ellos hacen un primer scan de los settings DNS.
 
-## Revisión DNS Records
+3.- **Revisión DNS Records**
 
 Si no se han usado estos settings lo más probable es que todo esté correcto. Si se agregaron subdominios o entradas específicas sólo hace falta revisar que están bien.
 
-## Plan
+4.- **Plan**
 
 Hay varios, en mi caso fui por el Free Plan.
 
-## DNS
+5.- **DNS**
 
 Te listan los nameservers a los que debe apuntar tu dominio.
 
-## Overview + Check
+6.- **Overview + Check**
 
 Una revisión general de todo y te avisan si el cambio de DNS se hizo correctamente (esto puede llegar a tardar en lo que el cambio se distribuye).
 
-## Crypto
+7.- **Crypto**
 
 Aquí viene lo bonito, hay que buscar las siguientes entradas y cambiarlas a las siguientes configuraciones:
 

@@ -4,7 +4,7 @@ title: "Ideas sobre 'Innovación y creatividad en las redes sociales y turismo'"
 date: 2010-08-03T11:27:07+00:00
 author: Gorka
 layout: post
-permalink: /2017/08/ideas-sobre-innovacion-y-creatividad-en-las-redes-sociales-y-turismo
+permalink: /2010/08/ideas-sobre-innovacion-y-creatividad-en-las-redes-sociales-y-turismo
 categories:
   - Ideas
 ---

@@ -4,7 +4,7 @@ title: Espacios publicitarios en Internet
 date: 2010-10-14T11:27:07+00:00
 author: Gorka
 layout: post
-permalink: /2017/10/espacios-publicitarios-en-internet/
+permalink: /2010/10/espacios-publicitarios-en-internet/
 categories:
   - Ideas
 ---

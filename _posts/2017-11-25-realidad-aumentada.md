@@ -12,9 +12,9 @@ categories:
 
 Ya he escrito de Realidad Aumentada [antes](https://aquigorka.com//2010/02/desarrollos-mobile-y-realidad-aumentada/), es un tema que me encanta, me hace volar las ideas.
 
-Me sorprende que hay pocos desarrollos/apps que le hayan pegado bien. Hay cosas muy buenas sí, pero falta esa manera de ver el mundo desde adentro del traje de IronMan, la metadata que se veía desde los ojos del Terminator. Falta `star-walk` pero para la vida real.
+Me sorprende que hay pocos desarrollos/apps que le hayan pegado bien. Hay cosas muy buenas sí, pero falta esa manera de ver el mundo desde adentro del traje de IronMan, la metadata que se veía desde los ojos del Terminator. Falta `starwalk` pero para la vida real.
 
-Así que se me ocurrió proponer un proyecto (otro más?) - ahora uso Github para abrir/planear proyectos, por qué no? Al final del día si alguuine lo ve y se copa, adelante, ya está en una paltaforma de colaboración.
+Así que se me ocurrió proponer un proyecto (otro más?) - ahora uso Github para abrir/planear proyectos, por qué no? Al final del día si alguien lo ve y se copa, adelante, ya está en una paltaforma de colaboración.
 
 En fin, la idea del proyecto tiene un twist: en lugar de hacer una app para smartphone de realidad aumentada, es hacer una app de desktop.
 

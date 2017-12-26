@@ -13,7 +13,7 @@ categories:
 🐮 🤝 💸
 </h1>
 
-> Alemán: **kuhhandel** = **horse trading**
+> Alemán: **kuhhandel** = **horse trading**<br />
 > Holandés: **koehandel** = **cow trading**
 
 Hace unos años me enseñaron este juego y desde ahí me gustó mucho. Al punto que cuando ibamos a acampar o había ganas de jugar algún juego de mesa decidía dibujar a mano los elementos necesarios para jugar.
@@ -48,6 +48,6 @@ Así que bueno, eso, ahhhhh, y el catch divertido: el juego original usa animale
 [Emoji Trade](https://emoji-trade.got-game.net/)
 [Kuhhandel @ github](https://github.com/AquiGorka/kuhhandel)
 
-Saludos,
+Saludos,<br />
 Gorka
 

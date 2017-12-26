@@ -22,7 +22,7 @@ Luego lo olvidé.
 
 Hace poco se me ocurrió que estaría divertido hacer una versión en la que se usen los teléfonos celulares como control remoto para jugar este juego (la idea de los celulares no es nueva, ya lo hice con Tetris aquí: [Multiplayer Tetris](https://github.com/AquiGorka/multiplayer-tetris)).
 
-Fueron un par de semanas divertidas, lo primero decidí hacer una versión para `npm` - que además resultó ser mi primer paquete publico de `npm`: [Kuhhandel](https://www.`npm`js.com/package/kuhhandel).
+Fueron un par de semanas divertidas, lo primero decidí hacer una versión para `npm` - que además resultó ser mi primer paquete publico de `npm`: [Kuhhandel](https://www.npmjs.com/package/kuhhandel).
 
 Paréntesis.
 
@@ -45,7 +45,7 @@ Para futuro agregaré otras funcionalidades:
 
 Así que bueno, eso, ahhhhh, y el catch divertido: el juego original usa animales de granja, yo decidí cambiarlo y que use `emojis`
 
-[Emoji Trade](https://emoji-trade.got-game.net/)
+[Emoji Trade](https://emoji-trade.got-game.net/)<br />
 [Kuhhandel @ github](https://github.com/AquiGorka/kuhhandel)
 
 Saludos,<br />

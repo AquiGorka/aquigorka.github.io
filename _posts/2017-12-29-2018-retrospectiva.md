@@ -28,7 +28,7 @@ Una pequeña introducción para el recuento de cosas que hubo este año.
 - Sistemas de blog. Dos blogs. Uno más activo que el otro. Pero para empezar hay que dar el primer paso. Dos sistemas para aprender las diferencias y ver con cual me siento más cómodo. Los dos van muy bien.
 - Nuevos lenguajes. Aguante Golang! Un rato estuve jugando bastante, publiqué un starter para server, cambié de framework (por razones que ya conté [antes](https://aquigorka.com/2017/09/no-usar-iris-en-go/)). Voy a seguir haciendo cosas con este lenguaje por ahora.
 - Kickoff. Un juego que quiero hacer. Un proyecto que ya empecé y que ahi va. Tiene de todo lo que he aprendido en los años. VR, multiplayer, real-time, 2nd screen, esports. En fin, ya veremos como sigue.
-- Kuhhandel. Mi primer videojuego de mesa. Aún le faltan tuercas por apretar. Pero hice la versión digital de un juego de mesa, que se puede jugar usando los celures como control remoto. Tómala babón.
+- Kuhhandel. Mi primer videojuego de mesa. Aún le faltan tuercas por apretar. Pero hice la versión digital de un juego de mesa, que se puede jugar usando los celures como control remoto. Tómala barbón.
 - Rompí una computadora. Bueno, no tal cual, alguien la podría arreglar. Alguien muy nerd que sepa de particiones de boot, grub y grub de rescate. Aprendí mucho, tanto que casi creo que quiero mandar arreglar la computadora para volver a intentarlo.
 - Mi primer año como Ingeniero. Investigué qué más se puede aprender y me encontré [Master of Human-Computer Interaction](https://www.hcii.cmu.edu/academics/mhci). Lo quiero. Si en algún momento creí que nunca volvería a la academia, este postgrado llamó mucho mi atención. Fue de las cosas que estuve leyendo mucho y este va aquí más como propósito futuro.
 

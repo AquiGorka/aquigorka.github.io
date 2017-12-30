@@ -1,10 +1,10 @@
 ---
 id: 20171229
-title: 2018 Retrospectiva
+title: 2017 Retrospectiva
 date: 2017-12-29T11:27:07+00:00
 author: Gorka
 layout: post
-permalink: /2017/12/2018-retrospectiva/
+permalink: /2017/12/2017-retrospectiva/
 categories:
   - Ideas
 ---
@@ -34,7 +34,7 @@ Una pequeña introducción para el recuento de cosas que hubo este año.
 
 **tl;dr;**
 
-2018.
+2017.
 
 Tremendo.
 

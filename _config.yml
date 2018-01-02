@@ -75,5 +75,4 @@ compress_html:
 sass:
   style: compressed
 
-disqus:
-  shortname: aquigorka
+disqus: aquigorka

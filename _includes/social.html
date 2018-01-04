@@ -177,5 +177,11 @@
     {% assign url = "https://vk.com/" | append: username %}
     {% include social-list-item.html platform=platform url=url %}
   {% endif %}
+
+  {% if platform == "envelop" %}
+    {% assign url = "https://feedburner.google.com/fb/a/mailverify?uri=AquiGorka" %}
+    {% include social-list-item.html platform=platform url=url %}
+  {% endif %}
+
 {% endfor %}
 </ul>

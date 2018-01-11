@@ -17,7 +17,7 @@ Alguna vez ya hablé de [esto](https://aquigorka.com/2017/05/nuevas-herramientas
 gem install jekyll
 ```
 
-Me regresaba algo de `Permission Denied`. Puf. Entre las soluciones comunes siempre salía eso de usar un Ruby Version Manager (rvm). Me niego. Y de repente, esto: [Troubleshooting jekyll: Jekyll & Mac OS X 10.11Permalink](https://jekyllrb.com/docs/troubleshooting/#jekyll--mac-os-x-1011). Fiesta.
+Me regresaba algo de `Permission Denied`. Puf. Entre las soluciones comunes siempre salía eso de usar un Ruby Version Manager (rvm). Me niego. Y de repente, esto: [Troubleshooting jekyll: Jekyll & Mac OS X 10.11](https://jekyllrb.com/docs/troubleshooting/#jekyll--mac-os-x-1011). Fiesta.
 
 La solución implica instalar Ruby usando `Hombrew` (`Hombrew` es una fiesta en sí, luego hago un post de eso) y agregar ese ejecutable al `$PATH` del usuario, con eso tenemos la última versión de Ruby lista para usar y, consecuencia, se puede instalar Jekyll.
 

@@ -24,7 +24,7 @@ Cuando tomas una "captura":
 - puedes hacer upload a sus servers y compartir el link
 - puedes hacer **copy** y llevar la foto a cualquier otro lugar/app
 
-Le personalicé el shortcut a `COMMANDO + SHIFT + ENTER` y es muy cómodo. Mi función favorita es la que te permite "copiar" los scrrenshots, es lo más cómodo y fácil para enseñar algo: tomas un screenshot, lo copias y lo pegas.
+Le personalicé el shortcut a `COMMANDO + SHIFT + ENTER` y es muy cómodo. Mi función favorita es la que te permite "copiar" los screenshots, es lo más cómodo y fácil para enseñar algo: tomas un screenshot, lo copias y lo pegas.
 
 Ahí tienen, una app más.
 

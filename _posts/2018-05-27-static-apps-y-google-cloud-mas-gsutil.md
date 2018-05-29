@@ -8,7 +8,7 @@ permalink: /2018/05/static-apps-y-google-cloud-mas-gsutil/
 categories:
   - Ideas
 ---
-<img style="margin: auto;" src="/public/img/2018/05/goolge-cllud.png" alt="Google Cloud" />
+<img style="margin: auto;" src="/public/img/2018/05/google-cloud.png" alt="Google Cloud" />
 
 Hay muchas herramientas que se pueden usar para hacer `deploy` de aplicaciones del tipo front-end o estáticas. Las que yo conocía:
 

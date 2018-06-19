@@ -24,7 +24,7 @@ My cómodo, similar a `surge`, el usuario hace login local y de ahí define los 
 Para hacer deploy en mi caso fue `rsync`:
 
 ```sh
-gsutil -m rsync -d -r ./PATH_TO_FOLDER gs:://BUCKET_NAME
+gsutil -m rsync -d -r ./PATH_TO_FOLDER gs://BUCKET_NAME
 ```
 
 Boom. Listo. Archivos en el bucket. No olvidar hacer que los archivos sean públicos con `gsutil -m acl -r set public-read gs://BUCKET_NAME` y todo en orden.

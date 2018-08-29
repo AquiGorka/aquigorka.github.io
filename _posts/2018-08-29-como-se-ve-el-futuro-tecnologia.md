@@ -11,6 +11,7 @@ categories:
 <img style="margin: auto;" src="/public/img/2018/08/singularity.png" alt="Singularity" />
 
 > El mejor lugar del mundo es donde mi mente funciona sin ninguna _cohersión_ al mundo físico.
+>
 > Gorka
 
 **¿Qué pasa cuando le das el infinito a una persona?**

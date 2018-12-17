@@ -14,15 +14,16 @@ Tuve la suerte de que aceptaron mi propuesta de charla en el [`JSDayEs 2018`](ht
 
 Pude compartir con personas de la comunidad JS en España, hablar de temas importantes el día de hoy y escuchar charlas de personas que saben mucho y que ahora sigo para seguir aprendiendo de lo que comparten.
 
-Yo hablé de [`Pupepts`](https://github.com/AquiGorka/puppets), mis slides están aquí: [`3D VIRTUAL PUPPET REMOTE-CONTROLLED WITH SMARTPHONE`](https://aquigorka.com/jsdayes-2018/).
+Yo hablé de [`Puppets`](https://github.com/AquiGorka/puppets), mis slides están aquí: [`3D VIRTUAL PUPPET REMOTE-CONTROLLED WITH SMARTPHONE`](https://aquigorka.com/jsdayes-2018/).
 
-Pero mejor les dejo el video para que vean la presentación:
+Pero mejor les dejo el video para que vean la charla:
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-1iidVTY58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Feedback
 
-Entre las cosas que me preguntaron y que considero para el futuro: no hice un demo de la marioneta. He estado trabajando en un refactor donde cambio el motor de física que usa y no logré tenerlo listo para el día de la presentación - pero si logré publicar otro experimento que ya contaré después.
+Entre las cosas que me preguntaron y que considero para el futuro: no hice un demo de la marioneta. He estado trabajando en un refactor donde cambio el motor de física que usa y no logré tenerlo listo para el día de la presentación - pero si logré publicar otro experimento que ya contaré después. Si puedo volver a dar la charla trataré de incluir un demo.
 
 Saludos,<br />
 Gorka

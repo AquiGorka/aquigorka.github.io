@@ -10,7 +10,7 @@ categories:
 ---
 <img style="margin: auto;" src="/public/img/2018/11/webrtc-qr.png" alt="WebRTC QR" />
 
-El mes pasado publiqué uno de más mis experimentos. Era un viernes cualquiera y como otras veces decidí compartir en varios lugares el link para ver si conseguía algún tipo de feedback. Cual fue mi sorpresa cuando el post consiguió tracción en [`Hacker News`](https://news.ycombinator.com/) y se quedó todo el día en la front page. Tremenda nerd-felicidad.
+El mes pasado publiqué uno más de mis experimentos. Era un viernes cualquiera y como otras veces decidí compartir en varios lugares el link para ver si conseguía algún tipo de feedback. Cual fue mi sorpresa cuando el post consiguió tracción en [`Hacker News`](https://news.ycombinator.com/) y se quedó todo el día en la front page. Tremenda nerd-felicidad.
 
 Les doy un poco de contexto:
 

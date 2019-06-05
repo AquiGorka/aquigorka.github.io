@@ -1,6 +1,6 @@
 ---
 id: 20190430
-title: iframes y Web Workers
+title: Iframes y Web Workers
 date: 2019-04-30T21:03:07+00:00
 author: Gorka
 layout: post

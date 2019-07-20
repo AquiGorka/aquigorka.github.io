@@ -1,6 +1,6 @@
 ---
 id: 20190629
-title: "Nuevos juguetes: Raapberry Pi"
+title: "Nuevos juguetes: Raspberry Pi"
 date: 2019-06-29T21:03:07+00:00
 author: Gorka
 layout: post

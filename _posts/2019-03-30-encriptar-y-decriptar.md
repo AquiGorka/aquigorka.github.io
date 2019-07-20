@@ -11,7 +11,7 @@ categories:
 
 <img style="margin: auto;" src="/public/img/2019/03/encrypt-decrypt.jpeg" alt="Encriptar y decriptar" />
 
-He esstado leyendo y tratando de aprender como encriptar y luego decriptar información de manera segura (y tal vez algún día pueda decir: en la manera correcta).
+He estado leyendo y tratando de aprender como encriptar y luego decriptar información de manera segura (y tal vez algún día pueda decir: en la manera correcta).
 
 Sin entrar a detalles que podrían mandarme por un agujero de conejo, describo lo que quiero hacer y luego lo que he encontrado:
 

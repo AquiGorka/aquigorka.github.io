@@ -1,16 +1,16 @@
 ---
-id: 20240821
+id: 20230821
 title: "Snippets: categorización de colegas complicados"
-date: 2024-08-21T00:00:00+00:00
+date: 2023-08-21T00:00:00+00:00
 author: Gorka
 layout: post
-permalink: /2024/08/snippets-categorizacion-de-colegas-complicados
+permalink: /2023/08/snippets-categorizacion-de-colegas-complicados
 categories:
   - Management
   - Leadership
 ---
 
-<img style="margin: auto;" src="/public/img/2024/08/snippets-difficult-colleagues.jpg" alt="Improve together" />
+<img style="margin: auto;" src="/public/img/2023/08/snippets-difficult-colleagues.jpg" alt="Improve together" />
 
 Este blog post [](https://vadimkravcenko.com/shorts/managing-bad-engineers/), habla de cómo mejorar el trabajo en equipo con personas complicadas haciendo una categorización de qué tipos de personalidades y situaciones en las que se ven representados. También propone formas de mejorar la comunicación con este tipo de colegas para lograr un buen funcionamiento del equipo.
 

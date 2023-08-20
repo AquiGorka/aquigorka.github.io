@@ -1,16 +1,16 @@
 ---
-id: 20240820
+id: 20230820
 title: "Snippets: items para hacer como nuevo manager de un equipo"
-date: 2024-08-20T00:00:00+00:00
+date: 2023-08-20T00:00:00+00:00
 author: Gorka
 layout: post
-permalink: /2024/08/snippets-todo-manager
+permalink: /2023/08/snippets-todo-manager
 categories:
   - Management
   - Leadership
 ---
 
-<img style="margin: auto;" src="/public/img/2024/08/snippets-todo-manager.jpg" alt="Leadership" />
+<img style="margin: auto;" src="/public/img/2023/08/snippets-todo-manager.jpg" alt="Leadership" />
 
 Hace unos días encontré este blog post: [What I learned after managing a small team for 2 years](https://luispcosta.com/managing-small-team), y me gustó mucho la idea de un framework con un checklist de cosas para hacer cuando tomas el rol de lider en un proyecto/equipo existente.
 

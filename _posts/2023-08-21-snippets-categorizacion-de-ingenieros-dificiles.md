@@ -12,7 +12,7 @@ categories:
 
 <img style="margin: auto;" src="/public/img/2023/08/snippets-difficult-colleagues.jpg" alt="Improve together" />
 
-Este blog post [](https://vadimkravcenko.com/shorts/managing-bad-engineers/), habla de cómo mejorar el trabajo en equipo con personas complicadas haciendo una categorización de qué tipos de personalidades y situaciones en las que se ven representados. También propone formas de mejorar la comunicación con este tipo de colegas para lograr un buen funcionamiento del equipo.
+Este blog post [managing bad engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/), habla de cómo mejorar el trabajo en equipo con personas complicadas haciendo una categorización de qué tipos de personalidades y situaciones en las que se ven representados. También propone formas de mejorar la comunicación con este tipo de colegas para lograr un buen funcionamiento del equipo.
 
 Aquí dejo el snippet de las categorias:
 

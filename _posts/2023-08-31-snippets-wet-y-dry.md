@@ -10,7 +10,7 @@ categories:
   - Technical Leadership
 ---
 
-<img style="margin: auto;" src="/public/img/2023/08/snippets-wet-y-dry.jpg" alt="Wet vs Dry" />
+<img style="margin: auto;" src="/public/img/2023/08/snippets-wet-y-dry.png" alt="Wet vs Dry" />
 
 > When you find yourself adding if statements to a piece of code in order to get it to behave differently under different scenarios, you’re creating a confusion. Don’t try to make one thing act like two things. Instead, separate it into two things.
 

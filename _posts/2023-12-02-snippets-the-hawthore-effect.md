@@ -1,6 +1,6 @@
 ---
 id: 20231202
-title: ""
+title: "Snippets: The Hawthorne Effect"
 date: 2023-12-02T00:00:00+00:00
 author: Gorka
 layout: post

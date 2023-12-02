@@ -23,7 +23,7 @@ De el artículo en wikipedia de [The hawthorne Effect](https://en.wikipedia.org/
 
 Me encantó, es una pequeña sutileza, pero muy poderosa para usar en negociaciones, hablando con personas que están siendo difíciles (ex. un colega o subordinado con el cual no puedes conectar), entre otras - es más, ustedes los millones de lectores, déjenme sus potenciales ideas de situaciones para usar en los comentarios, y no dejen de suscibirse al canal 🤦.
 
-En resumen corto: las personas modifican de manera reactiva inconscientemente su comportamiento. En uno de los estudios que encontré, decían que las personas que normalmente eran "over-achivers" al decirles que les estaban observando modificaban su comportamiento para asegurar entregar en lo esperado (es decir, bajaban su rendimiento) y por el contrario, las personas que normalmente eran "under-achivers" subían su rendimiento si sabían que los estaban observando.
+En resumen corto: las personas modifican de manera reactiva inconscientemente su comportamiento cuando se dan cuenta que están siendo observados en tal comportamiento/acción. En uno de los estudios que encontré, decían que las personas que normalmente eran "over-achivers" al decirles que les estaban observando modificaban su comportamiento para asegurar entregar en lo esperado (es decir, bajaban su rendimiento) y por el contrario, las personas que normalmente eran "under-achivers" subían su rendimiento si sabían que los estaban observando.
 
 
 Saludos,<br />

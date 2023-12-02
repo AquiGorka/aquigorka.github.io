@@ -16,7 +16,7 @@ categories:
 > Sanchez: porque no lo vi venir, patrón.
 
 
-De el artículo en wikipedia de [The hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect):
+De el artículo en wikipedia de [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect):
 
 > The Hawthorne effect is a type of human behavior reactivity in which individuals modify an aspect of their behavior in response to their awareness of being observed.[1][2] The effect was discovered in the context of research conducted at the Hawthorne Western Electric plant; however, some scholars think the descriptions are fictitious
 

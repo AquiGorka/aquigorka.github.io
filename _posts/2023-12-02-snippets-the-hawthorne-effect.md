@@ -18,7 +18,7 @@ categories:
 
 Del artículo en wikipedia de [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect):
 
-> The Hawthorne effect is a type of human behavior reactivity in which individuals modify an aspect of their behavior in response to their awareness of being observed.[1][2] The effect was discovered in the context of research conducted at the Hawthorne Western Electric plant; however, some scholars think the descriptions are fictitious
+> The Hawthorne effect is a type of human behavior reactivity in which individuals modify an aspect of their behavior in response to their awareness of being observed. The effect was discovered in the context of research conducted at the Hawthorne Western Electric plant; however, some scholars think the descriptions are fictitious
 
 
 Me encantó, es una pequeña sutileza, pero muy poderosa para usar en negociaciones, hablando con personas que están siendo difíciles (ex. un colega o subordinado con el cual no puedes conectar), entre otras - es más, ustedes los millones de lectores, déjenme sus potenciales ideas de situaciones para usar en los comentarios, y no dejen de suscibirse al canal 🤦.
